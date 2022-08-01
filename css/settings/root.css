@@ -18,9 +18,11 @@
 */
 
 :root{
-    --color-dark: #0000;
+    --color-black: #000000;
     --color-blue: #27e3ef;
     --color-white : #ffffff;
+    --fs-titulo: 4rem;
+    --fs-texto: 1rem;
 }
 
 

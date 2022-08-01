@@ -5,6 +5,18 @@
 |
 */
 
+.banner__logo{
+  position: absolute;
+  width: 20rem;
+  z-index: 10;
+  top: 1.5rem;
+  left: 40%;
+}
+
+.banner__logo img{
+ width: 100%;
+}
+
 .banner__container{
   position: relative;
   width: 100%;

@@ -1,0 +1,18 @@
+/*
+|   ---------------------------------------------------------------------------------
+|   @Components (Circle Icon)
+|   ---------------------------------------------------------------------------------
+|
+*/
+
+.circle-icon{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: var(--color-blue);
+    display: flex;
+    color: var(--color-black);
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+}

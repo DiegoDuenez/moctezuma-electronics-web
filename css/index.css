@@ -25,4 +25,15 @@
 *   @Components
 *   ---------------------------------------------------------------------------------
 */
+@import url('components/menu.css');
 @import url('components/banner.css');
+@import url('components/title.css');
+@import url('components/circle-icon.css');
+
+
+/*
+*   ---------------------------------------------------------------------------------
+*   @Layouts
+*   ---------------------------------------------------------------------------------
+*/
+@import url('layouts/nuestra-empresa.css');

@@ -1,0 +1,19 @@
+/*
+|   ---------------------------------------------------------------------------------
+|   @Components (Menu)
+|   ---------------------------------------------------------------------------------
+|
+*/
+
+.title{
+    font-size: var(--fs-titulo);
+    color: var(--color-white);
+    font-family: BakBakOneRegular;
+    text-transform: uppercase;
+    letter-spacing: 0.2rem;
+    text-align: center;
+}
+
+.title__span{
+    color: var(--color-blue);
+}

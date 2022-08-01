@@ -1,3 +1,8 @@
+
+<div class="banner__logo">
+   <a href="./"><img src="resources/img/LOGOTIPO.png" alt="Moctezuma Electronics México" title="Moctezuma Electronics México"></a> 
+</div>
+
 <div class="banner__container">
     <div class="glider">
         <div class="banner__image">
