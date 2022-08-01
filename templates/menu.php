@@ -5,9 +5,9 @@
     <a href="#nuestraempresa" class="menu__item">
         Nuestra empresa
     </a>
-    <div class="menu__item">
+    <a href="#productos" class="menu__item">
         Productos
-    </div>
+    </a>
     <div class="menu__item">
         Guías del comprador
     </div>

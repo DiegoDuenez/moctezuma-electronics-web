@@ -26,8 +26,10 @@
   <?php include_once 'templates/nuestra-empresa.php' ?>
   <!-- NUESTRA EMPRESA END -->
 
-
-    
+  <!-- PRODUCTOS START -->
+  <?php include_once 'templates/productos.php' ?>
+    <!-- PRODUCTOS END -->
+      
 <script src="libs/glider/glider.min.js"></script>
 <script src="js/banner.js"></script>
 

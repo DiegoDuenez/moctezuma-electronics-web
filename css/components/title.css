@@ -8,7 +8,7 @@
 .title{
     font-size: var(--fs-titulo);
     color: var(--color-white);
-    font-family: BakBakOneRegular;
+    font-family: var(--ff-titulo);
     text-transform: uppercase;
     letter-spacing: 0.2rem;
     text-align: center;
@@ -17,3 +17,56 @@
 .title__span{
     color: var(--color-blue);
 }
+
+.title--black{
+    color: var(--color-black);
+}
+
+.sub-title{
+    font-size: 1.5rem;
+    color: var(--color-black);
+    font-family: var(--ff-titulo);
+    text-transform: uppercase;
+    letter-spacing: 0.2rem;
+    text-align: center;
+    position: relative;
+}
+
+
+
+.sub-title::before{
+    content:" ";
+    display: block;
+    height: 3px;
+    width: 130px;
+    position: absolute;
+    top: 50%;
+    left: -9rem;
+    background-color: var(--color-blue);
+}
+
+.sub-title::after{
+    content:" ";
+    display: block;
+    height: 3px;
+    width: 130px;
+    position: absolute;
+    top: 50%;
+    right: -9rem;
+    background-color: var(--color-blue);
+}
+
+  /*
+.sub-title::after{
+   
+    content: "";
+    display: inline-block;
+    height: 2px;
+    position: relative;
+    vertical-align:auto;
+    width: 5%;
+    margin-left: 1rem;
+    background: linear-gradient(-45deg, #292345, #674ed7, #7f4890, #9639b2);
+	background-size: 300%;
+
+}*/
