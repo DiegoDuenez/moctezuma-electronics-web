@@ -33,11 +33,16 @@
     flex-direction: column;
     width: 80%;
     padding: 2rem 5rem;
+    gap: 2rem;
 }
 
 .productos__producto{
     display: flex;
     width: 100%;
+}
+
+.productos__producto--reverse{
+    flex-direction: row-reverse;
 }
 
 .productos__producto-img{
