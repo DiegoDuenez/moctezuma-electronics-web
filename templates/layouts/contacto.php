@@ -9,19 +9,19 @@
         <form action="" class="contacto__form">
             <div class="contacto__form-group">
                 <label for="nombre" class="contacto__label">Nombre</label>
-                <input type="text" class="contacto__input" id="nombre" autocomplete="false" required>
+                <input type="text" class="contacto__input" id="nombre" required>
             </div>
             <div class="contacto__form-group">
                 <label for="email" class="contacto__label">Email</label>
-                <input type="email" class="contacto__input" id="email" autocomplete="false" required>
+                <input type="email" class="contacto__input" id="email" required>
             </div>
             <div class="contacto__form-group">
                 <label for="asunto" class="contacto__label">Asunto</label>
-                <input type="text" class="contacto__input" id="asunto" autocomplete="false" required>
+                <input type="text" class="contacto__input" id="asunto" required>
             </div>
             <div class="contacto__form-group">
                 <label for="mensaje" class="contacto__label">Mensaje</label>
-                <textarea name="mensaje" id="mensaje" class="contacto__textarea" autocomplete="false" required></textarea>
+                <textarea name="mensaje" id="mensaje" class="contacto__textarea" required></textarea>
             </div>
 
             <button type="submit" class="button" style="align-self: center;">Enviar</button>
@@ -42,7 +42,6 @@
                 </a> 
                 <a href="tel:8712249887">(871) 124-9887</a>
                 <a href="tel:8717125872">(871) 712-5872</a>
-
         </div>
 
     </div>

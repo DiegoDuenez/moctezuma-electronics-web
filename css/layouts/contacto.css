@@ -65,6 +65,13 @@
     color: var(--color-white);
 }
 
+.contacto__label span{
+    color: var(--color-blue);
+    font-weight: bold;
+    margin-left:0.5rem;
+}
+
+
 .contacto__input{
     background-color: transparent;
     border: none;
