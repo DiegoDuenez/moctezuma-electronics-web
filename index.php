@@ -46,6 +46,10 @@
   <?php include_once 'templates/layouts/servicios.php' ?>
   <!--===== SERVICIOS END =====-->
 
+  <!--===== CONTACTO START =====-->
+  <?php include_once 'templates/layouts/contacto.php' ?>
+  <!--===== CONTACTO END =====-->
+
   <!--===== SCRIPTS START =====-->
   <?php include_once 'templates/scripts/scripts.php' ?>
   <!--===== SCRIPTS END =====-->

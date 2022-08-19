@@ -1,8 +1,8 @@
 <div class="servicios" id="servicios">
 
     <div class="servicios__title">
-            <h2 class="title">SERVICIOS</h2>
-        </div>
+        <h2 class="title">SERVICIOS</h2>
+    </div>
 
         <div class="servicios__card-container">
             <div class="servicios__card-row">
