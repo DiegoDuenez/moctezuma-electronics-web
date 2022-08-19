@@ -52,7 +52,7 @@
         <a href="#servicios" class="menu__item">
             Servicios
         </a>
-        <a href="catalogo.pdf" download class="menu__item">
+        <a href="sindocumento.pdf" download class="menu__item">
             Catálogo de productos
         </a>
     </div>
