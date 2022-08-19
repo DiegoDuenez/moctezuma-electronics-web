@@ -42,6 +42,10 @@
   <?php include_once 'templates/layouts/industrias.php' ?>
   <!--===== PINDUSTRIAS END =====-->
 
+  <!--===== SERVICIOS START =====-->
+  <?php include_once 'templates/layouts/servicios.php' ?>
+  <!--===== SERVICIOS END =====-->
+
   <!--===== SCRIPTS START =====-->
   <?php include_once 'templates/scripts/scripts.php' ?>
   <!--===== SCRIPTS END =====-->

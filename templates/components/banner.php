@@ -29,9 +29,9 @@
         <a href="#industrias" class="menu__item">
             Industrias
         </a>
-        <div class="menu__item">
+        <a href="#servicios" class="menu__item">
             Servicios
-        </div>
+        </a>
         <div class="menu__item">
             Catálogo de productos
         </div>
