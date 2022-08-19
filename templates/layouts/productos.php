@@ -86,7 +86,7 @@
         <div class="productos__producto ">
 
             <div class="productos__catalogo">
-                <a download="catalogo.pdf">
+                <a href="catalogo.pdf" download>
                     <img src="resources/img/catalogo.jpg" alt="" class="productos__catalogo-img">
                     <p class="productos__catalogo-text">DESCARGAR CATÁLOGO</p>
                 </a>
