@@ -23,6 +23,26 @@
         <a href="#productos" class="menu__item">
             Productos
         </a>
+            <div class="menu__productos-opciones">
+                <a href="#productos" class="menu__item">
+                    Sistemas de camára/monitor
+                </a>
+                <a href="#productos" class="menu__item">
+                    Detección de obstáculos por radar
+                </a>
+                <a href="#productos" class="menu__item">
+                Sistema de visión 360°
+                </a>
+                <a href="#productos" class="menu__item">
+                    Alarmas de reversa de ruido blanco
+                </a>
+                <a href="#productos" class="menu__item">
+                    Sensores ultrasónicos
+                </a>
+                <a href="#productos" class="menu__item">
+                    Grabador digital móvil
+                </a>
+            </div>
         <a href="#recomendaciones" class="menu__item">
             Guías del comprador
         </a>

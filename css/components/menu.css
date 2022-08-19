@@ -31,6 +31,7 @@
     text-transform: uppercase;
     transition: 400ms;
     text-decoration: none;
+    text-align: center;
 }
 
 .menu__item:hover{
@@ -45,3 +46,32 @@
 .menu__item--blue:hover{
     color: var(--color-black)
 }
+
+.menu__item[href*='#productos']:hover + .menu__productos-opciones{
+    visibility: visible;
+    opacity: 1;
+}
+
+.menu__productos-opciones{
+    display: flex;
+    background-color: red;
+    position: absolute;
+    width: 15rem;
+    height: max-content;
+    top: 12rem;
+    right: 15rem;
+    flex-direction: column;
+    visibility: hidden;
+    opacity: 0;
+    transition: visibility 0s, opacity 0.5s linear; 
+}
+
+.menu__productos-opciones:hover{
+    visibility: visible;
+    opacity: 1;
+}
+
+.menu__productos-opciones .menu__item{
+    height: 4rem;
+}
+
