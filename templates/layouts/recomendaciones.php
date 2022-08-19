@@ -10,8 +10,8 @@
             <img src="resources/img/RECOMENDACION-SEGURIDAD-1.jpg" alt="Recomendaciones de seguridad">
         </div>
         <div class="recomendaciones__buttons">
-            <button class="button button--black" disabled><i class="fa-solid fa-caret-left"></i></button>
-            <button class="button button--black"><i class="fa-solid fa-caret-right"></i></button>
+            <button class="button button--black" title="Anterior" disabled><i class="fa-solid fa-caret-left"></i></button>
+            <button class="button button--black" title="Siguiente" ><i class="fa-solid fa-caret-right"></i></button>
         </div>
     </div>
     

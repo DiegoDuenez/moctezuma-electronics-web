@@ -44,6 +44,7 @@
 .button--black:disabled,
 .button--black[disabled]{
     background-color: rgb(177, 177, 177);
+    cursor:not-allowed;
 }
 
 /* 
