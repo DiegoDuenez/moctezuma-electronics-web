@@ -14,21 +14,21 @@
 </head>
 <body>
 
-  <!-- BANNER START -->
-  <?php include_once 'templates/banner.php' ?>
+  <!--===== BANNER START =====-->
+  <?php include_once 'templates/components/banner.php' ?>
+  <!--===== BANNER END =====-->
 
+  <!--===== NUESTRA EMPRESA START =====-->
+  <?php include_once 'templates/layouts/nuestra-empresa.php' ?>
+  <!--===== NUESTRA EMPRESA END =====-->
 
-  <?php include_once 'templates/nuestra-empresa.php' ?>
-  <?php include_once 'templates/productos.php' ?>
+  <!--===== PRODUCTOS START =====-->
+  <?php include_once 'templates/layouts/productos.php' ?>
+  <!--===== PRODUCTOS END =====-->
 
-  <!-- MENU START
-  <?php include_once 'templates/menu.php' ?>
-  <?php include_once 'templates/nuestra-empresa.php' ?>
-  <?php include_once 'templates/productos.php' ?>
-  -->
-      
-<script src="libs/glider/glider.min.js"></script>
-<script src="js/banner.js"></script>
+  <!--===== SCRIPTS START =====-->
+  <?php include_once 'templates/scripts/scripts.php'?>
+  <!--===== SCRIPTS END =====-->
 
 </body>
 </html>
