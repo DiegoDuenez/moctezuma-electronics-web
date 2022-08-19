@@ -9,7 +9,7 @@
 
 <div class="button__menu">
     <i class="fa-solid fa-bars"></i>
-    MENÚ
+    <p>MENÚ</p>
 </div>
 
 <div class="container-glider">
@@ -17,7 +17,7 @@
         <a href="#" class="menu__item menu__item--blue">
             Contacto
         </a>
-        <a href="#nuestraempresa" class="menu__item">
+        <a href="#nuestraempresa" class="menu__item" data-scroll>
             Nuestra empresa
         </a>
         <a href="#productos" class="menu__item">

@@ -44,7 +44,6 @@
             </p>
         </div>
         <div class="nuestra-empresa__content-img">
-
         </div>
 
     </div>

@@ -13,17 +13,15 @@
     letter-spacing: 0.2rem;
     text-align: center;
 }
-
+    @media screen and (min-width: 300px) and (max-width: 700px) {
+        .title{
+            font-size: 2.5rem;
+        }
+        
+    }
 
 .title__span{
     color: var(--color-blue);
-    /*background: linear-gradient(-45deg, #27e3ef, #27e3ef, #27e3ef, #0adbea);
-	background-size: 300%;
-    -webkit-background-clip: text;
-	-webkit-text-fill-color: transparent;
-	animation: animated_text 10s ease-in-out infinite;
-	-moz-animation: animated_text 10s ease-in-out infinite;
-	-webkit-animation: animated_text 10s ease-in-out infinite;*/
 }
 
 @keyframes animated_text {
@@ -36,6 +34,12 @@
 .title--black{
     color: var(--color-black);
 }
+    @media screen and (min-width: 300px) and (max-width: 700px) {
+        .title--black{
+            font-size: 2.5rem;
+        }
+        
+    }
 
 .sub-title{
     font-size: 1.5rem;
@@ -47,7 +51,12 @@
     position: relative;
 }
 
-
+    @media screen and (min-width: 300px) and (max-width: 700px) {
+        .sub-title{
+            font-size: 1.2rem;
+        }
+        
+    }
 
 .sub-title::before{
     content:" ";
@@ -59,6 +68,12 @@
     left: -9rem;
     background-color: var(--color-blue);
 }
+    @media screen and (min-width: 300px) and (max-width: 700px) {
+        .sub-title::before{
+            display: none;
+        }
+        
+    }
 
 .sub-title::after{
     content:" ";
@@ -71,17 +86,9 @@
     background-color: var(--color-blue);
 }
 
-  /*
-.sub-title::after{
-   
-    content: "";
-    display: inline-block;
-    height: 2px;
-    position: relative;
-    vertical-align:auto;
-    width: 5%;
-    margin-left: 1rem;
-    background: linear-gradient(-45deg, #292345, #674ed7, #7f4890, #9639b2);
-	background-size: 300%;
-
-}*/
+    @media screen and (min-width: 300px) and (max-width: 700px) {
+        .sub-title::after{
+            display: none;
+        }
+        
+    }

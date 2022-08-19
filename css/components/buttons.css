@@ -28,9 +28,25 @@
     display: flex;
     flex-direction: column;
     cursor: pointer;
-
 }
 
 .button__menu i{
     font-size: 3rem;
 }
+
+.button--black{
+    background-color: var(--color-black);
+    font-size: 2rem;
+    color: white;
+    padding: 0.5rem 1rem;
+}
+
+.button--black:disabled,
+.button--black[disabled]{
+    background-color: rgb(177, 177, 177);
+}
+
+/* 
+.button__menu p{
+    color: black;
+} */
