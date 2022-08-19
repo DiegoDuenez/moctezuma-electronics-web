@@ -34,12 +34,16 @@
   <?php include_once 'templates/layouts/productos.php' ?>
   <!--===== PRODUCTOS END =====-->
 
-   <!--===== RECOMENDACIONES START =====-->
-   <?php include_once 'templates/layouts/recomendaciones.php' ?>
+  <!--===== RECOMENDACIONES START =====-->
+  <?php include_once 'templates/layouts/recomendaciones.php' ?>
   <!--===== PRECOMENDACIONES END =====-->
 
+  <!--===== INDUSTRIAS START =====-->
+  <?php include_once 'templates/layouts/industrias.php' ?>
+  <!--===== PINDUSTRIAS END =====-->
+
   <!--===== SCRIPTS START =====-->
-  <?php include_once 'templates/scripts/scripts.php'?>
+  <?php include_once 'templates/scripts/scripts.php' ?>
   <!--===== SCRIPTS END =====-->
 
 </body>

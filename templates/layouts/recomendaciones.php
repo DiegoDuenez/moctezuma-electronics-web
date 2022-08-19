@@ -1,4 +1,4 @@
-<div class="recomendaciones">
+<div class="recomendaciones" id="recomendaciones">
 
     <div class="recomendaciones__title">
         <h2 class="title title--black">RECOMENDACIONES DE SEGURIDAD</h2>
