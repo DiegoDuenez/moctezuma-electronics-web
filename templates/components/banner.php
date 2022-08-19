@@ -38,19 +38,19 @@
     </div>
     <div class="glider">
         <div class="card">
-            <img src="resources/img/BANNER1.jpg" alt="Sicove">
+            <img src="resources/img/BANNER1.jpg" alt="">
         </div>
         <div class="card">
-            <img src="resources/img/BANNER2.jpg" alt="Sicove">
+            <img src="resources/img/BANNER2.jpg" alt="">
         </div>
         <div class="card">
-            <img src="resources/img/BANNER3.jpg" alt="Sicove">
+            <img src="resources/img/BANNER3.jpg" alt="">
         </div>
         <div class="card">
-            <img src="resources/img/BANNER4.jpg" alt="Sicove">
+            <img src="resources/img/BANNER4.jpg" alt="">
         </div>
         <div class="card">
-            <img src="resources/img/BANNER5.jpg" alt="Sicove">
+            <img src="resources/img/BANNER5.jpg" alt="">
         </div>
     </div>
     
