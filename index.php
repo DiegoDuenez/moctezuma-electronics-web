@@ -16,7 +16,9 @@
     <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v6.1.0/css/all.css">
     <!--====== AOS CSS ======-->
     <link rel="stylesheet" href="libs/aos/dist/aos.css">
+    <!--====== GLIDER CSS ======-->
     <link rel="stylesheet" href="libs/glider/glider.min.css">
+    <!--====== MAINCSS ======-->
     <link rel="stylesheet" href="css/index.css">
     <title>Moctezuma Electronics México</title>
 </head>
