@@ -32,9 +32,9 @@
         <a href="#servicios" class="menu__item">
             Servicios
         </a>
-        <div class="menu__item">
+        <a href="catalogo.pdf" download class="menu__item">
             Catálogo de productos
-        </div>
+        </a>
     </div>
     <div class="glider">
         <div class="card">
