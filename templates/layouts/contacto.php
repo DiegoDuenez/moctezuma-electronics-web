@@ -12,7 +12,7 @@
                 <input type="text" class="contacto__input" id="nombre" required>
             </div>
             <div class="contacto__form-group">
-                <label for="email" class="contacto__label">Email</label>
+                <label for="email" class="contacto__label">Correo Electrónico</label>
                 <input type="email" class="contacto__input" id="email" required>
             </div>
             <div class="contacto__form-group">
