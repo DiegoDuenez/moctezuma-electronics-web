@@ -1,24 +1,4 @@
-
-
-
-<div class="banner__logo ">
-   <a href="./"><img src="resources/img/LOGOTIPO.png" alt="Moctezuma Electronics México" 
-   title="Moctezuma Electronics México" 
-   class="animate__animated animate__fadeInUp"></a> 
-</div>
-
-<div class="button__menu" id="menuButton">
-    <i class="fa-solid fa-bars"></i>
-    <p>MENÚ</p>
-</div>
-
-<div class="button__menu button__menu--top button__menu--hide"  id="menuButtonClose">
-    <i class="fa-solid fa-xmark"></i>
-    <p>CERRAR</p>
-</div>
-
-<div class="container-glider">
-    <div class="menu">
+<div class="menu menu--justify-end menu--fixed menu--hide" id="menuHide">
         <a href="#contacto" class="menu__item menu__item--blue">
             Contacto
         </a>
@@ -28,7 +8,7 @@
         <a href="#productos" class="menu__item">
             Productos
         </a>
-            <div class="menu__productos-opciones">
+            <div class="menu__productos-opciones menu__productos-opciones--fixed">
                 <a href="#productos" class="menu__item">
                     Sistemas de camára/monitor
                 </a>
@@ -78,6 +58,3 @@
             <img src="resources/img/BANNER5.jpg" alt="">
         </div>
     </div>
-    
-</div>
-

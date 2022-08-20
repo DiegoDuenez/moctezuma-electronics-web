@@ -16,6 +16,23 @@
     width: 15rem;
     height: 100%;
     z-index: 1;
+    transition: 0.4s;
+}
+
+.menu--justify-end{
+    justify-content: flex-end;
+}
+
+.menu--fixed{
+    position: fixed;
+}
+
+.menu--hide{
+    right: -100%;
+}
+
+.menu--show{
+    right: 0;
 }
 
 .menu__item{
@@ -64,6 +81,10 @@
     visibility: hidden;
     opacity: 0;
     transition: visibility 0s, opacity 0.5s linear; 
+}
+
+.menu__productos-opciones--fixed{
+    position: fixed;
 }
 
 .menu__productos-opciones:hover{

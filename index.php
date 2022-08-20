@@ -52,9 +52,13 @@
   <?php include_once 'templates/layouts/contacto.php' ?>
   <!--===== CONTACTO END =====-->
 
+  <?php require_once 'templates/components/menu.php' ?>
+
   <!--===== SCRIPTS START =====-->
   <?php include_once 'templates/scripts/scripts.php' ?>
   <!--===== SCRIPTS END =====-->
+
+
 
 </body>
 </html>
