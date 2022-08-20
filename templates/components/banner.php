@@ -18,7 +18,7 @@
 </div>
 
 <div class="container-glider">
-    <div class="menu">
+    <div class="menu" id="menuPrincipal">
         <a href="#contacto" class="menu__item menu__item--blue">
             Contacto
         </a>
