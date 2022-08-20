@@ -103,6 +103,11 @@
         }
     }
 
+.productos__producto-content--no-align{
+    align-items: flex-start;
+    justify-content: flex-start
+}
+
 .productos__producto-header{
     display: flex;
     justify-content: center;
