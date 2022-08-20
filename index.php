@@ -52,7 +52,9 @@
   <?php include_once 'templates/layouts/contacto.php' ?>
   <!--===== CONTACTO END =====-->
 
+  <!--===== MENU LATERAL DESPLEGABLE START =====-->
   <?php require_once 'templates/components/menu.php' ?>
+  <!--===== MENU LATERAL DESPLEGABLE END =====-->
 
   <!--===== SCRIPTS START =====-->
   <?php include_once 'templates/scripts/scripts.php' ?>
