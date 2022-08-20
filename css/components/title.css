@@ -5,6 +5,7 @@
 |
 */
 
+
 .title{
     font-size: var(--fs-titulo);
     color: var(--color-white);
@@ -29,7 +30,6 @@
 	50% { background-position: 100% 50%; text-shadow: 0 0 40px #27e3ef }
 	100% { background-position: 0px 50%;  }
 }
-
 
 .title--black{
     color: var(--color-black);

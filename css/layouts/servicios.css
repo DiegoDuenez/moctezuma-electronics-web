@@ -5,6 +5,7 @@
 |
 */
 
+
 .servicios{
     display: flex;
     background-color: var(--color-black);
@@ -21,7 +22,6 @@
     display: flex;
     justify-content: center;
 }
-
 
 .servicios__card-container{
     display: flex;
@@ -63,7 +63,6 @@
         }
     }
 
-
 .servicios__card-body{
     display: flex;
     width: 100%;
@@ -87,8 +86,6 @@
     background-color: var(--color-blue);
     color: var(--color-black);
 }
-
-
 
 .servicios__card-body img{
     width: 100%;

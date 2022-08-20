@@ -103,7 +103,6 @@
         }
     }
 
-
 .productos__producto-header{
     display: flex;
     justify-content: center;
@@ -140,7 +139,6 @@
     text-align: center;
 }
 
-
 .productos__catalogo{
     display: flex;
     width: 10rem;
@@ -155,7 +153,6 @@
     color: black;
     text-decoration: none;
 }
-
 
 .productos__catalogo-img{
     width: 70%;

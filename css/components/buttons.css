@@ -5,6 +5,7 @@
 |
 */
 
+
 .button{
     background-color: var(--color-blue);
     color: var(--color-black);
@@ -63,8 +64,3 @@
     background-color: rgb(177, 177, 177);
     cursor:not-allowed;
 }
-
-/* 
-.button__menu p{
-    color: black;
-} */

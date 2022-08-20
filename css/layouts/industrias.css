@@ -5,6 +5,7 @@
 |
 */
 
+
 .industrias{
     display: flex;
     background-color: var(--color-black);
@@ -22,7 +23,6 @@
     display: flex;
     justify-content: center;
 }
-
 
 .industrias__card-container{
     display: flex;
@@ -90,8 +90,6 @@
     object-fit: cover;
 }
 
-
-
 .industrias__card:hover .industrias__card-mask{
     display: flex;
     visibility: visible;
@@ -111,12 +109,6 @@
     visibility: hidden;
     opacity: 0;
     transition: visibility 0s, opacity 0.5s linear; 
-    /* display: none;
-    width: 100%;
-    position: absolute;
-    background-color: rgba(20, 93, 125, 0);
-    height: 100%;
-    transition: .4s; */
 }
 
 .industrias__card-mask-header{
