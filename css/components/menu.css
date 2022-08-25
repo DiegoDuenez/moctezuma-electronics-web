@@ -57,6 +57,10 @@
     text-align: center;
 }
 
+.menu__item-top{
+    margin-top: 6rem;
+}
+
 .menu__item:hover{
     color: var(--color-blue)
 }

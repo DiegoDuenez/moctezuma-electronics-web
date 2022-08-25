@@ -1,5 +1,5 @@
-<div class="menu menu--justify-end menu--fixed menu--hide" id="menuHide">
-    <a href="#contacto" class="menu__item menu__item--blue">
+<div class="menu menu--fixed menu--hide" id="menuHide">
+    <a href="#contacto" class="menu__item menu__item--blue menu__item-top">
         Contacto
     </a>
     <a href="#nuestraempresa" class="menu__item" data-scroll>
