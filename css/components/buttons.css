@@ -15,7 +15,12 @@
     width: max-content;
     font-family: var(--ff-titulo);
     cursor: pointer;
+    transition: all 0.2s ease-in-out;
 }
+/* 
+.button:hover {
+    box-shadow: 0 5px 15px rgba(15, 186, 198, 0.495);
+  } */
 
 .button__menu{
     position: fixed;
