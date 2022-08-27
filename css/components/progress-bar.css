@@ -1,0 +1,18 @@
+
+
+.progress-bar__container{
+    width: 100%;
+    position: fixed;
+    z-index: 9999;
+    top: -10rem;
+    height: 0.3rem;
+    background-color: var(--color-black);
+    display: flex;
+    transition: 0.4s;
+}
+
+.progress-bar{
+    background-color: var(--color-blue);
+    height: 100%;
+    width: 0%;
+}

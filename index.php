@@ -25,6 +25,10 @@
 <body>
 
   <!--===== BANNER START =====-->
+  <?php include_once 'templates/components/progress-bar.php' ?>
+  <!--===== BANNER END =====-->
+
+  <!--===== BANNER START =====-->
   <?php include_once 'templates/components/banner.php' ?>
   <!--===== BANNER END =====-->
 
@@ -61,6 +65,7 @@
   <!--===== SCRIPTS START =====-->
   <?php include_once 'templates/scripts/scripts.php' ?>
   <!--===== SCRIPTS END =====-->
+
 
 
 
