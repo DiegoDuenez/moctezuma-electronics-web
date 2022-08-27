@@ -35,15 +35,16 @@
     width: 100%;
     justify-content: center;
     height: max-content;
+    flex-wrap: wrap;
 }
 
-    @media screen and (min-width: 300px) and (max-width: 1000px) {
+    /* @media screen and (min-width: 300px) and (max-width: 1000px) {
         .servicios__card-row{
             align-items: center;
             flex-direction: column;
             gap: 0.5rem;
         }
-    }
+    } */
 
 .servicios__card{
     position: relative;
