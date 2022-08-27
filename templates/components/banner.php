@@ -7,15 +7,15 @@
    class="animate__animated animate__fadeInUp"></a> 
 </div>
 
-<div class="button__menu" id="menuButton">
+<button class="button__menu" id="menuButton">
     <i class="fa-solid fa-bars"></i>
     <p>MENÚ</p>
-</div>
+</button>
 
-<div class="button__menu button__menu--top button__menu--hide"  id="menuButtonClose">
+<button class="button__menu button__menu--top button__menu--hide"  id="menuButtonClose">
     <i class="fa-solid fa-xmark"></i>
     <p>CERRAR</p>
-</div>
+</button>
 
 <div class="container-glider">
     <div class="menu" id="menuPrincipal">

@@ -78,7 +78,7 @@
     color: var(--color-white);
     font-family: var(--ff-titulo);
     padding: 0.5rem;
-    font-size: 1.5rem;
+    font-size: 1.5em;
     height: max-content;
     text-align: center;
 
@@ -113,12 +113,13 @@
 
 .industrias__card-mask-header{
     text-align: center;
-    font-size: 1rem;
+    font-size: 1em;
     font-family: var(--ff-titulo);
 }
 
 .industrias__card-mask-body{
-    font-size: 0.8rem;
+    font-size: 0.8em;
     font-family: var(--ff-texto);
     text-align: justify;
+    line-height: 1.2em;
 }

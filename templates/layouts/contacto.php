@@ -36,7 +36,7 @@
         </div>
 
         <div class="contacto__informacion">
-                <a> <i class="fa-solid fa-location-dot"></i> AV. Abasolo #121-A
+                <a> <i class="fa-solid fa-location-dot"></i> Av. Abasolo #121-A
                 Col. Centro CP 27000
                 Torreón, Coahuila.
                 </a> 
