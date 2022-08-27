@@ -29,22 +29,22 @@
             Productos
         </a>
             <div class="menu__productos-opciones">
-                <a href="#productos" class="menu__item">
+                <a class="menu__item" href="#sistemas_camara_monitor">
                     Sistemas de camára/monitor
                 </a>
-                <a href="#productos" class="menu__item">
+                <a class="menu__item" href="#deteccion_obstaculos_radar">
                     Detección de obstáculos por radar
                 </a>
-                <a href="#productos" class="menu__item">
-                Sistema de visión 360°
+                <a class="menu__item" href="#sistema_vision_360">
+                    Sistema de visión 360°
                 </a>
-                <a href="#productos" class="menu__item">
+                <a class="menu__item" href="#alarmas_reversa_ruido_blanco">
                     Alarmas de reversa de ruido blanco
                 </a>
-                <a href="#productos" class="menu__item">
+                <a class="menu__item" href="#sensores_ultrasonicos">
                     Sensores ultrasónicos
                 </a>
-                <a href="#productos" class="menu__item">
+                <a class="menu__item" href="#grabador_digital_movil">
                     Grabador digital móvil
                 </a>
             </div>
