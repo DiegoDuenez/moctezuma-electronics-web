@@ -120,6 +120,6 @@
 .industrias__card-mask-body{
     font-size: 0.8em;
     font-family: var(--ff-texto);
-    text-align: justify;
+    text-align: center;
     line-height: 1.2em;
 }
