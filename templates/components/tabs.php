@@ -7,7 +7,7 @@
 
     <div class="tab__container">
         <div class="tab">
-            <button class="tablinks" data-producto="sistemas_camara_monitor" onclick="openTab(event, 'sistemas_camara_monitor')">SISTEMAS DE CÁMARA/MONITOR</button>
+            <button class="tablinks active" data-producto="sistemas_camara_monitor" onclick="openTab(event, 'sistemas_camara_monitor')">SISTEMAS DE CÁMARA/MONITOR</button>
             <button class="tablinks" data-producto="deteccion_obstaculos_radar" onclick="openTab(event, 'deteccion_obstaculos_radar')">Detección de obstáculos por radar</button>
             <button class="tablinks" data-producto="sistema_vision_360" onclick="openTab(event, 'sistema_vision_360')">Sistema de visión 360°</button>
             <button class="tablinks" data-producto="alarmas_reversa_ruido_blanco" onclick="openTab(event, 'alarmas_reversa_ruido_blanco')">Alarmas de reversa de ruido blanco</button>
@@ -16,10 +16,10 @@
         </div>
 
         <!-- Tab content -->
-        <div id="init" class="tabcontent--default">
-                <P>Selecciona una categoría</P>
-        </div>
-        <div id="sistemas_camara_monitor" class="tabcontent">
+        <!-- <div id="init" class="tabcontent--default">
+            <P>Selecciona una categoría</P>
+        </div> -->
+        <div id="sistemas_camara_monitor" class="tabcontent tabcontent--default">
             <div class="productos__productos-list">
 
                 <div class="productos__producto ">
