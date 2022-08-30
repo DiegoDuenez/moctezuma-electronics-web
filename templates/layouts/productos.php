@@ -21,9 +21,7 @@
                     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
                     aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
                     
-                    <button class="button">
-                        VER MÁS
-                    </button>
+                    
                 </div>
             </div>
         </div>
@@ -40,9 +38,7 @@
                     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
                     aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
                     
-                    <button class="button">
-                        VER MÁS
-                    </button>
+                    
                 </div>
             </div>
         </div>
@@ -59,9 +55,7 @@
                     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
                     aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
                     
-                    <button class="button">
-                        VER MÁS
-                    </button>
+                    
                 </div>
             </div>
         </div>
@@ -78,9 +72,7 @@
                     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
                     aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
                     
-                    <button class="button">
-                        VER MÁS
-                    </button>
+                    
                 </div>
             </div>
         </div>
@@ -118,9 +110,7 @@
                     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
                     aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
                     
-                    <button class="button">
-                        VER MÁS
-                    </button>
+                    
                 </div>
             </div>
         </div>
@@ -137,9 +127,7 @@
                     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
                     aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
                     
-                    <button class="button">
-                        VER MÁS
-                    </button>
+                    
                 </div>
             </div>
         </div>
@@ -156,9 +144,7 @@
                     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
                     aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
                     
-                    <button class="button">
-                        VER MÁS
-                    </button>
+                    
                 </div>
             </div>
         </div>
@@ -175,9 +161,7 @@
                     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
                     aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
                     
-                    <button class="button">
-                        VER MÁS
-                    </button>
+                    
                 </div>
             </div>
         </div>
@@ -215,9 +199,7 @@
                     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
                     aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
                     
-                    <button class="button">
-                        VER MÁS
-                    </button>
+                    
                 </div>
             </div>
         </div>
@@ -234,9 +216,7 @@
                     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
                     aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
                     
-                    <button class="button">
-                        VER MÁS
-                    </button>
+                    
                 </div>
             </div>
         </div>
@@ -253,9 +233,7 @@
                     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
                     aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
                     
-                    <button class="button">
-                        VER MÁS
-                    </button>
+                    
                 </div>
             </div>
         </div>
@@ -272,9 +250,7 @@
                     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
                     aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
                     
-                    <button class="button">
-                        VER MÁS
-                    </button>
+                    
                 </div>
             </div>
         </div>
@@ -313,9 +289,7 @@
                     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
                     aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
                     
-                    <button class="button">
-                        VER MÁS
-                    </button>
+                    
                 </div>
             </div>
         </div>
@@ -332,9 +306,7 @@
                     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
                     aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
                     
-                    <button class="button">
-                        VER MÁS
-                    </button>
+                    
                 </div>
             </div>
         </div>
@@ -351,9 +323,7 @@
                     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
                     aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
                     
-                    <button class="button">
-                        VER MÁS
-                    </button>
+                    
                 </div>
             </div>
         </div>
@@ -370,9 +340,7 @@
                     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
                     aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
                     
-                    <button class="button">
-                        VER MÁS
-                    </button>
+                    
                 </div>
             </div>
         </div>
@@ -411,9 +379,7 @@
                     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
                     aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
                     
-                    <button class="button">
-                        VER MÁS
-                    </button>
+                    
                 </div>
             </div>
         </div>
@@ -430,9 +396,7 @@
                     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
                     aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
                     
-                    <button class="button">
-                        VER MÁS
-                    </button>
+                    
                 </div>
             </div>
         </div>
@@ -449,9 +413,7 @@
                     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
                     aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
                     
-                    <button class="button">
-                        VER MÁS
-                    </button>
+                    
                 </div>
             </div>
         </div>
@@ -468,9 +430,7 @@
                     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
                     aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
                     
-                    <button class="button">
-                        VER MÁS
-                    </button>
+                    
                 </div>
             </div>
         </div>
@@ -510,9 +470,7 @@
                     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
                     aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
                     
-                    <button class="button">
-                        VER MÁS
-                    </button>
+                    
                 </div>
             </div>
         </div>
@@ -529,9 +487,7 @@
                     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
                     aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
                     
-                    <button class="button">
-                        VER MÁS
-                    </button>
+                    
                 </div>
             </div>
         </div>
@@ -548,9 +504,7 @@
                     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
                     aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
                     
-                    <button class="button">
-                        VER MÁS
-                    </button>
+                    
                 </div>
             </div>
         </div>
@@ -567,9 +521,7 @@
                     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
                     aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
                     
-                    <button class="button">
-                        VER MÁS
-                    </button>
+                    
                 </div>
             </div>
         </div>
