@@ -17,7 +17,7 @@
 
         <!-- Tab content -->
         <div id="init" class="tabcontent--default">
-                <P>Seleciona una categoría</P>
+                <P>Selecciona una categoría</P>
         </div>
         <div id="sistemas_camara_monitor" class="tabcontent">
             <div class="productos__productos-list">
