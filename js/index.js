@@ -39,3 +39,24 @@ $('#menuButton').click(function(){
     }
 
 })
+
+$('.menu__item').click(function(e) {
+    // window.location = $('.menu__item').attr('href');
+    // alert($('.menu__item').attr('href').replace('#',''))
+    e.preventDefault()
+    id = $(this).attr('data-href')
+    console.log(this)
+    document.getElementById(id).scrollIntoView();
+
+    if($('#menuHide').hasClass('menu--show')){
+        $('#menuHide').removeClass('menu--show')
+        $('#menuButton').empty()
+        $('#menuButton').append('<i class="fa-solid fa-bars"></i> <p>MENÚ</p>')
+    }
+    else{
+        $('#menuHide').addClass('menu--show')
+        $('#menuButton').empty()
+        $('#menuButton').append('<i class="fa-solid fa-xmark"></i> <p>CERRAR</p>')
+    }
+
+})

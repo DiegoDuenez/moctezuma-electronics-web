@@ -55,10 +55,12 @@
     transition: 400ms;
     text-decoration: none;
     text-align: center;
+    outline: none;
+    cursor: pointer;
 }
 
 .menu__item-top{
-    margin-top: 6rem;
+    margin-top: 5rem;
 }
 
 .menu__item:hover{
@@ -67,11 +69,17 @@
 
 .menu__item--blue{
     background-color: var(--color-blue);
-    color: var(--color-black)
+    color: var(--color-black);
+    border: none;
+    border-top: 1px solid  var(--color-white);
+    border-top: 1px solid  var(--color-white);
+
+
 }
 
 .menu__item--blue:hover{
     color: var(--color-black)
+    
 }
 
 .menu__item[href*='#productos']:hover + .menu__productos-opciones{
