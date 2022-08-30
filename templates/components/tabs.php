@@ -91,6 +91,127 @@
                 </div>
 
                 <div class="productos__producto ">
+                    <div class="productos__producto-img">
+                        <img src="resources/img/CAMARA1.jpg" alt="">
+                    </div>
+                    <div class="productos__producto-content">
+                        <div class="productos__producto-header">
+                            <p>CÁMARA DE&nbsp;<span>GAMA ELITE</span></p> 
+                        </div>
+                        <div class="productos__producto-body">
+                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
+                            aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
+                            
+                            
+                        </div>
+                    </div>
+                </div>
+
+                <div class="productos__producto productos__producto--reverse">
+                    <div class="productos__producto-img">
+                        <img src="resources/img/CAMARA2.jpg" alt="">
+                    </div>
+                    <div class="productos__producto-content">
+                        <div class="productos__producto-header">
+                            <p>CÁMARA DE&nbsp;<span>GAMA ELITE</span></p> 
+                        </div>
+                        <div class="productos__producto-body">
+                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
+                            aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
+                            
+                            
+                        </div>
+                    </div>
+                </div>
+
+                <div class="productos__producto ">
+                    <div class="productos__producto-img">
+                        <img src="resources/img/CAMARA3.jpg" alt="">
+                    </div>
+                    <div class="productos__producto-content">
+                        <div class="productos__producto-header">
+                            <p>CÁMARA DE&nbsp;<span>GAMA SELECT</span></p> 
+                        </div>
+                        <div class="productos__producto-body">
+                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
+                            aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
+                            
+                            
+                        </div>
+                    </div>
+                </div>
+
+                <div class="productos__producto productos__producto--reverse">
+                    <div class="productos__producto-img">
+                        <img src="resources/img/CAMARA4.jpg" alt="">
+                    </div>
+                    <div class="productos__producto-content">
+                        <div class="productos__producto-header">
+                            <p>CÁMARA DE&nbsp;<span>GAMA SELECT</span></p> 
+                        </div>
+                        <div class="productos__producto-body">
+                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
+                            aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
+                            
+                            
+                        </div>
+                    </div>
+                </div>
+
+                <div class="productos__producto ">
+                    <div class="productos__producto-img">
+                        <img src="resources/img/CAMARA1.jpg" alt="">
+                    </div>
+                    <div class="productos__producto-content">
+                        <div class="productos__producto-header">
+                            <p>CÁMARA DE&nbsp;<span>GAMA ELITE</span></p> 
+                        </div>
+                        <div class="productos__producto-body">
+                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
+                            aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
+                            
+                            
+                        </div>
+                    </div>
+                </div>
+
+                <div class="productos__producto productos__producto--reverse">
+                    <div class="productos__producto-img">
+                        <img src="resources/img/CAMARA2.jpg" alt="">
+                    </div>
+                    <div class="productos__producto-content">
+                        <div class="productos__producto-header">
+                            <p>CÁMARA DE&nbsp;<span>GAMA ELITE</span></p> 
+                        </div>
+                        <div class="productos__producto-body">
+                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
+                            aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
+                            
+                            
+                        </div>
+                    </div>
+                </div>
+
+                <div class="productos__producto ">
+                    <div class="productos__producto-img">
+                        <img src="resources/img/CAMARA3.jpg" alt="">
+                    </div>
+                    <div class="productos__producto-content">
+                        <div class="productos__producto-header">
+                            <p>CÁMARA DE&nbsp;<span>GAMA SELECT</span></p> 
+                        </div>
+                        <div class="productos__producto-body">
+                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
+                            aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
+                            
+                            
+                        </div>
+                    </div>
+                </div>
+
+               
+
+                <div class="productos__producto ">
 
                     <div class="productos__catalogo">
                         <a href="sindocumento.pdf" download>
