@@ -89,7 +89,6 @@
 
 .menu__productos-opciones{
     display: flex;
-    background-color: red;
     position: absolute;
     width: 15rem;
     height: max-content;

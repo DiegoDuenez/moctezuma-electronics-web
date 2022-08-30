@@ -30,10 +30,7 @@
     </div>
 
     <div class="contacto__container contacto__container--row">
-        <div class="contacto__mapa">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3599.5056586081564!2d-103.45017818508849!3d25.554838523368858!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x868fdbd6c78e7287%3A0xc0be837961869517!2sA%20W%20Software!5e0!3m2!1sen!2smx!4v1660932562381!5m2!1sen!2smx" 
-            style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-        </div>
+        
 
         <div class="contacto__informacion">
                 <a> <i class="fa-solid fa-location-dot"></i> Av. Abasolo #121-A
