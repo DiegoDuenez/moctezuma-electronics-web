@@ -60,3 +60,10 @@ $('.menu__item').click(function(e) {
     }
 
 })
+
+// $(".menu__item-active-submenu").hover(function(){
+//     // alert('ola')
+//     console.log($(this).siblings('.menu__productos-opciones').css({visibility: 'visible', opacity: 1}))
+//     }, function(){
+
+//   }); 

@@ -82,7 +82,7 @@
     
 }
 
-.menu__item[href*='#productos']:hover + .menu__productos-opciones{
+.menu__item[data-href*='productos']:hover + .menu__productos-opciones{
     visibility: visible;
     opacity: 1;
 }
@@ -93,7 +93,7 @@
     position: absolute;
     width: 15rem;
     height: max-content;
-    top: 12rem;
+    top: 6rem;
     right: 15rem;
     flex-direction: column;
     visibility: hidden;
@@ -113,4 +113,3 @@
 .menu__productos-opciones .menu__item{
     height: 4rem;
 }
-

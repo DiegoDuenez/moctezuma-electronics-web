@@ -4,3 +4,5 @@
 <script src="js/banner.js"></script>
 <script src="js/index.js"></script>
 <script src="js/progress-bar.js"></script>
+<script src="js/tabs.js"></script>
+

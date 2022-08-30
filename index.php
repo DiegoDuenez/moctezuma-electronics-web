@@ -37,7 +37,8 @@
   <!--===== NUESTRA EMPRESA END =====-->
 
   <!--===== PRODUCTOS START =====-->
-  <?php include_once 'templates/layouts/productos.php' ?>
+  <?php require_once 'templates/components/tabs.php' ?>
+
   <!--===== PRODUCTOS END =====-->
 
   <!--===== RECOMENDACIONES START =====-->
@@ -61,6 +62,7 @@
   <!--===== MENU LATERAL DESPLEGABLE END =====-->
 
   <!-- <?php include_once 'templates/components/modal.php' ?> -->
+
 
   <!--===== SCRIPTS START =====-->
   <?php include_once 'templates/scripts/scripts.php' ?>

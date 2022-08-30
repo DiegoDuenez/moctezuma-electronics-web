@@ -23,7 +23,7 @@
         <button data-href="nuestraempresa" class="menu__item">
             Nuestra empresa
         </button>
-        <button data-href="productos" class="menu__item">
+        <button data-href="productos" class="menu__item menu__item-active-submenu">
             Productos
         </button>
             <div class="menu__productos-opciones">
@@ -81,4 +81,3 @@
     </div>
     
 </div>
-
