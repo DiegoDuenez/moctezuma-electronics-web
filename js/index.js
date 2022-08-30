@@ -45,7 +45,6 @@ $('.menu__item').click(function(e) {
     // alert($('.menu__item').attr('href').replace('#',''))
     e.preventDefault()
     id = $(this).attr('data-href')
-    console.log(this)
     document.getElementById(id).scrollIntoView();
 
     if($('#menuHide').hasClass('menu--show')){
@@ -53,17 +52,11 @@ $('.menu__item').click(function(e) {
         $('#menuButton').empty()
         $('#menuButton').append('<i class="fa-solid fa-bars"></i> <p>MENÚ</p>')
     }
-    else{
-        $('#menuHide').addClass('menu--show')
-        $('#menuButton').empty()
-        $('#menuButton').append('<i class="fa-solid fa-xmark"></i> <p>CERRAR</p>')
-    }
+    // else{
+    //     $('#menuHide').addClass('menu--show')
+    //     $('#menuButton').empty()
+    //     $('#menuButton').append('<i class="fa-solid fa-xmark"></i> <p>CERRAR</p>')
+    // }
 
 })
 
-// $(".menu__item-active-submenu").hover(function(){
-//     // alert('ola')
-//     console.log($(this).siblings('.menu__productos-opciones').css({visibility: 'visible', opacity: 1}))
-//     }, function(){
-
-//   }); 

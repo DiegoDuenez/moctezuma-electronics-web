@@ -11,9 +11,9 @@
                 <button class="menu__item" data-href="sistemas_camara_monitor">
                     Sistemas de camára/monitor
                 </button>
-                <a class="menu__item" data-href="deteccion_obstaculos_radar">
+                <button class="menu__item" data-href="deteccion_obstaculos_radar">
                     Detección de obstáculos por radar
-                </a>
+                </button>
                 <button class="menu__item" data-href="sistema_vision_360">
                     Sistema de visión 360°
                 </button>

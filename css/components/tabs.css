@@ -44,8 +44,8 @@
 }
 .tab button.active {
     color: var(--color-blue);
-
 }
+
 .tabcontent {
     display: none;
     padding: 6px 12px;
@@ -54,4 +54,19 @@
     width: 100%;
     font-family: var(--ff-texto);
     color: rgb(0, 0, 0);
+}
+
+
+.tabcontent--default{
+    display: flex;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+    height: 6rem;
+    width: 100%;
+    font-family: var(--ff-texto);
+    color: rgb(0, 0, 0);
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem;
 }

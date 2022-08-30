@@ -7,16 +7,19 @@
 
     <div class="tab__container">
         <div class="tab">
-            <button class="tablinks" onclick="openCity(event, 'camara/monitor')">SISTEMAS DE CÁMARA/MONITOR</button>
-            <button class="tablinks" onclick="openCity(event, 'obstaculos_radar')">Detección de obstáculos por radar</button>
-            <button class="tablinks" onclick="openCity(event, 'vision_350')">Sistema de visión 360°</button>
-            <button class="tablinks" onclick="openCity(event, 'alarmas_ruido_blanco')">Alarmas de reversa de ruido blanco</button>
-            <button class="tablinks" onclick="openCity(event, 'sensores_ultrasonicos')">Sensores ultrasónicos</button>
-            <button class="tablinks" onclick="openCity(event, 'grabador_digital_movil')">Grabador digital móvil</button>
+            <button class="tablinks" data-producto="sistemas_camara_monitor" onclick="openTab(event, 'sistemas_camara_monitor')">SISTEMAS DE CÁMARA/MONITOR</button>
+            <button class="tablinks" data-producto="deteccion_obstaculos_radar" onclick="openTab(event, 'deteccion_obstaculos_radar')">Detección de obstáculos por radar</button>
+            <button class="tablinks" data-producto="sistema_vision_360" onclick="openTab(event, 'sistema_vision_360')">Sistema de visión 360°</button>
+            <button class="tablinks" data-producto="alarmas_reversa_ruido_blanco" onclick="openTab(event, 'alarmas_reversa_ruido_blanco')">Alarmas de reversa de ruido blanco</button>
+            <button class="tablinks" data-producto="sensores_ultrasonicos" onclick="openTab(event, 'sensores_ultrasonicos')">Sensores ultrasónicos</button>
+            <button class="tablinks" data-producto="grabador_digital_movil" onclick="openTab(event, 'grabador_digital_movil')">Grabador digital móvil</button>
         </div>
 
         <!-- Tab content -->
-        <div id="camara/monitor" class="tabcontent">
+        <div id="init" class="tabcontent--default">
+                <P>Seleciona una categoría</P>
+        </div>
+        <div id="sistemas_camara_monitor" class="tabcontent">
             <div class="productos__productos-list">
 
                 <div class="productos__producto ">
@@ -109,7 +112,7 @@
             </div>
         </div>
 
-        <div id="obstaculos_radar" class="tabcontent">
+        <div id="deteccion_obstaculos_radar" class="tabcontent">
             <div class="productos__productos-list">
 
                 <div class="productos__producto ">
@@ -202,7 +205,7 @@
             </div>
         </div>
 
-        <div id="vision_350" class="tabcontent">
+        <div id="sistema_vision_360" class="tabcontent">
             <div class="productos__productos-list">
 
                 <div class="productos__producto ">
@@ -295,7 +298,7 @@
             </div>
         </div>
 
-        <div id="alarmas_ruido_blanco" class="tabcontent">
+        <div id="alarmas_reversa_ruido_blanco" class="tabcontent">
             <div class="productos__productos-list">
 
                 <div class="productos__producto ">
