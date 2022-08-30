@@ -55,9 +55,9 @@
         <button data-href="servicios" class="menu__item">
             Servicios
         </button>
-        <a href="sindocumento.pdf" download class="menu__item">
+        <button onclick="window.open('catalogo.pdf')" class="menu__item">
             Catálogo de productos
-        </a>
+        </button>
         <button data-href='contacto' class="menu__item menu__item--blue">
             Contacto
         </button>
