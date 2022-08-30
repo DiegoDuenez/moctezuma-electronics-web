@@ -38,7 +38,6 @@
 
   <!--===== PRODUCTOS START =====-->
   <?php require_once 'templates/components/tabs.php' ?>
-
   <!--===== PRODUCTOS END =====-->
 
   <!--===== RECOMENDACIONES START =====-->
