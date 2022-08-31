@@ -43,9 +43,9 @@ $('#menuButton').click(function(){
 $('.menu__item').click(function(e) {
     // window.location = $('.menu__item').attr('href');
     // alert($('.menu__item').attr('href').replace('#',''))
-    e.preventDefault()
-    id = $(this).attr('data-href')
-    document.getElementById(id).scrollIntoView();
+    // e.preventDefault()
+    // id = $(this).attr('data-href')
+    // document.getElementById(id).scrollIntoView();
 
     if($('#menuHide').hasClass('menu--show')){
         $('#menuHide').removeClass('menu--show')
@@ -60,3 +60,11 @@ $('.menu__item').click(function(e) {
 
 })
 
+
+// $('#btnSiguiente').click(function(){
+//     $('#subtitle-recomendaciones').text('MAQUINARIA PESADA')
+//     $("#img").fadeTo(1000,0.30, function() {
+//         $("#img").attr("src",'resources/img/recomendaciones-de-seguridad2.jpg');
+//     }).fadeTo(500,1);
+//     return false;
+// })

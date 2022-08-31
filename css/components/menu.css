@@ -82,7 +82,7 @@
     
 }
 
-.menu__item[data-href*='productos']:hover + .menu__productos-opciones{
+.menu__item[href*='#productos']:hover + .menu__productos-opciones{
     visibility: visible;
     opacity: 1;
 }
