@@ -93,7 +93,7 @@
 }
     @media screen and (min-width: 300px) and (max-width: 700px) {
         .productos__producto-img img{
-            width: 50%;
+            width: 70%;
         }
     }
 

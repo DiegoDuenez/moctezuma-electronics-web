@@ -24,7 +24,7 @@
 
                 <div class="productos__producto ">
                     <div class="productos__producto-img">
-                        <img src="resources/img/CAMARA1.jpg" alt="">
+                        <img src="resources/img/CAMARA1.jpg" alt="SISTEMAS DE CÁMARA Y MONITOR">
                     </div>
                     <div class="productos__producto-content">
                         <div class="productos__producto-header">
@@ -41,7 +41,7 @@
 
                 <div class="productos__producto productos__producto--reverse">
                     <div class="productos__producto-img">
-                        <img src="resources/img/CAMARA2.jpg" alt="">
+                        <img src="resources/img/CAMARA2.jpg" alt="SISTEMAS DE CÁMARA Y MONITOR">
                     </div>
                     <div class="productos__producto-content">
                         <div class="productos__producto-header">
@@ -50,15 +50,13 @@
                         <div class="productos__producto-body">
                             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
                             aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
-                            
-                            
                         </div>
                     </div>
                 </div>
 
                 <div class="productos__producto ">
                     <div class="productos__producto-img">
-                        <img src="resources/img/CAMARA3.jpg" alt="">
+                        <img src="resources/img/CAMARA3.jpg" alt="SISTEMAS DE CÁMARA Y MONITOR">
                     </div>
                     <div class="productos__producto-content">
                         <div class="productos__producto-header">
@@ -75,7 +73,7 @@
 
                 <div class="productos__producto productos__producto--reverse">
                     <div class="productos__producto-img">
-                        <img src="resources/img/CAMARA4.jpg" alt="">
+                        <img src="resources/img/CAMARA4.jpg" alt="SISTEMAS DE CÁMARA Y MONITOR">
                     </div>
                     <div class="productos__producto-content">
                         <div class="productos__producto-header">
@@ -92,11 +90,11 @@
 
                 <div class="productos__producto ">
                     <div class="productos__producto-img">
-                        <img src="resources/img/CAMARA1.jpg" alt="">
+                        <img src="resources/img/camara_monitor/5.jpeg" alt="SISTEMAS DE CÁMARA Y MONITOR">
                     </div>
                     <div class="productos__producto-content">
                         <div class="productos__producto-header">
-                            <p>CÁMARA DE&nbsp;<span>GAMA ELITE</span></p> 
+                            <p>MONITOR DE LA&nbsp;<span>GAMA EXTREME</span></p> 
                         </div>
                         <div class="productos__producto-body">
                             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
@@ -109,11 +107,11 @@
 
                 <div class="productos__producto productos__producto--reverse">
                     <div class="productos__producto-img">
-                        <img src="resources/img/CAMARA2.jpg" alt="">
+                        <img src="resources/img/camara_monitor/6.jpg" alt="SISTEMAS DE CÁMARA Y MONITOR">
                     </div>
                     <div class="productos__producto-content">
                         <div class="productos__producto-header">
-                            <p>CÁMARA DE&nbsp;<span>GAMA ELITE</span></p> 
+                            <p>MONITOR DE LA&nbsp;<span>GAMA SELECT</span></p> 
                         </div>
                         <div class="productos__producto-body">
                             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
@@ -126,11 +124,11 @@
 
                 <div class="productos__producto ">
                     <div class="productos__producto-img">
-                        <img src="resources/img/CAMARA3.jpg" alt="">
+                        <img src="resources/img/camara_monitor/7.jpeg" alt="SISTEMAS DE CÁMARA Y MONITOR">
                     </div>
                     <div class="productos__producto-content">
                         <div class="productos__producto-header">
-                            <p>CÁMARA DE&nbsp;<span>GAMA SELECT</span></p> 
+                            <p>MONITOR DE LA&nbsp;<span>GAMA ESSENTIAL</span></p> 
                         </div>
                         <div class="productos__producto-body">
                             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
@@ -143,11 +141,11 @@
 
                 <div class="productos__producto productos__producto--reverse">
                     <div class="productos__producto-img">
-                        <img src="resources/img/CAMARA4.jpg" alt="">
+                        <img src="resources/img/camara_monitor/8.jpeg" alt="SISTEMAS DE CÁMARA Y MONITOR">
                     </div>
                     <div class="productos__producto-content">
                         <div class="productos__producto-header">
-                            <p>CÁMARA DE&nbsp;<span>GAMA SELECT</span></p> 
+                            <p>SISTEMAS DE CÁMARA Y MONITOR&nbsp;<span>GAMA ELITE</span></p> 
                         </div>
                         <div class="productos__producto-body">
                             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
@@ -160,11 +158,11 @@
 
                 <div class="productos__producto ">
                     <div class="productos__producto-img">
-                        <img src="resources/img/CAMARA1.jpg" alt="">
+                        <img src="resources/img/camara_monitor/9.jpeg" alt="SISTEMAS DE CÁMARA Y MONITOR">
                     </div>
                     <div class="productos__producto-content">
                         <div class="productos__producto-header">
-                            <p>CÁMARA DE&nbsp;<span>GAMA ELITE</span></p> 
+                            <p>SISTEMAS DE CÁMARA Y MONITOR&nbsp;<span>GAMA SELECT</span></p> 
                         </div>
                         <div class="productos__producto-body">
                             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
@@ -175,41 +173,57 @@
                     </div>
                 </div>
 
+                <div class="productos__producto productos__producto--reverse ">
+                    <div class="productos__producto-img">
+                        <img src="resources/img/camara_monitor/442.jpg" alt="SISTEMAS DE CÁMARA Y MONITOR">
+                    </div>
+                    <div class="productos__producto-content">
+                        <div class="productos__producto-header">
+                            <p>SISTEMAS DE CÁMARA Y MONITOR&nbsp;<span>GAMA SELECT</span></p> 
+                        </div>
+                        <div class="productos__producto-body">
+                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
+                            aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
+                            
+                            
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="productos__producto ">
+                    <div class="productos__producto-img">
+                        <img src="resources/img/camara_monitor/10.jpg" alt="SISTEMAS DE CÁMARA Y MONITOR">
+                    </div>
+                    <div class="productos__producto-content">
+                        <div class="productos__producto-header">
+                            <p>SISTEMAS DE CÁMARA Y MONITOR&nbsp;<span>GAMA SELECT</span></p> 
+                        </div>
+                        <div class="productos__producto-body">
+                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
+                            aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
+                            
+                            
+                        </div>
+                    </div>
+                </div>
+
+<!--                 
                 <div class="productos__producto productos__producto--reverse">
                     <div class="productos__producto-img">
-                        <img src="resources/img/CAMARA2.jpg" alt="">
+                        <img src="resources/img/camara_monitor/11.jpeg" alt="SISTEMAS DE CÁMARA Y MONITOR">
                     </div>
                     <div class="productos__producto-content">
                         <div class="productos__producto-header">
-                            <p>CÁMARA DE&nbsp;<span>GAMA ELITE</span></p> 
+                            <p>SISTEMAS DE CÁMARA Y MONITOR&nbsp;<span>GAMA ESSENTIAL</span></p> 
                         </div>
                         <div class="productos__producto-body">
                             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
                             aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
-                            
-                            
                         </div>
                     </div>
-                </div>
+                </div> -->
 
-                <div class="productos__producto ">
-                    <div class="productos__producto-img">
-                        <img src="resources/img/CAMARA3.jpg" alt="">
-                    </div>
-                    <div class="productos__producto-content">
-                        <div class="productos__producto-header">
-                            <p>CÁMARA DE&nbsp;<span>GAMA SELECT</span></p> 
-                        </div>
-                        <div class="productos__producto-body">
-                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
-                            aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
-                            
-                            
-                        </div>
-                    </div>
-                </div>
-
-               
 
                 <div class="productos__producto ">
 
@@ -230,71 +244,34 @@
 
                 <div class="productos__producto ">
                     <div class="productos__producto-img">
-                        <img src="resources/img/CAMARA1.jpg" alt="">
+                        <img src="resources/img/deteccion_obstaculos/1.jpg" alt="Detección de obstáculos por radar">
                     </div>
                     <div class="productos__producto-content">
                         <div class="productos__producto-header">
-                            <p>...&nbsp;<span>...</span></p> 
+                            <p>DETECCIÓN DE OBSTÁCULOS&nbsp;<span>PROGRAMABLE BACKSENSE</span></p> 
                         </div>
                         <div class="productos__producto-body">
                             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
                             aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
-                            
-                            
                         </div>
                     </div>
                 </div>
 
-                <div class="productos__producto productos__producto--reverse">
+                <div class="productos__producto productos__producto--reverse ">
                     <div class="productos__producto-img">
-                        <img src="resources/img/CAMARA2.jpg" alt="">
+                        <img src="resources/img/deteccion_obstaculos/1.jpg" alt="Detección de obstáculos por radar">
                     </div>
                     <div class="productos__producto-content">
                         <div class="productos__producto-header">
-                            <p>...&nbsp;<span>...</span></p> 
+                            <p>DETECCIÓN DE OBSTÁCULOS&nbsp;<span>FIJO BACKSENSE</span></p> 
                         </div>
                         <div class="productos__producto-body">
                             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
                             aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
-                            
-                            
                         </div>
                     </div>
                 </div>
 
-                <div class="productos__producto ">
-                    <div class="productos__producto-img">
-                        <img src="resources/img/CAMARA3.jpg" alt="">
-                    </div>
-                    <div class="productos__producto-content">
-                        <div class="productos__producto-header">
-                            <p>...&nbsp;<span>...</span></p> 
-                        </div>
-                        <div class="productos__producto-body">
-                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
-                            aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
-                            
-                            
-                        </div>
-                    </div>
-                </div>
-
-                <div class="productos__producto productos__producto--reverse">
-                    <div class="productos__producto-img">
-                        <img src="resources/img/CAMARA4.jpg" alt="">
-                    </div>
-                    <div class="productos__producto-content">
-                        <div class="productos__producto-header">
-                            <p>...&nbsp;<span>...</span></p> 
-                        </div>
-                        <div class="productos__producto-body">
-                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
-                            aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
-                            
-                            
-                        </div>
-                    </div>
-                </div>
 
                 <div class="productos__producto ">
 
@@ -315,68 +292,15 @@
 
                 <div class="productos__producto ">
                     <div class="productos__producto-img">
-                        <img src="resources/img/CAMARA1.jpg" alt="">
+                        <img src="resources/img/vision_360/1.jpeg" alt="Sistemas de visión 360">
                     </div>
                     <div class="productos__producto-content">
                         <div class="productos__producto-header">
-                            <p>...&nbsp;<span>...</span></p> 
+                            <p>BN360 SISTEMAS DE CÁMARAS Y MONITOR&nbsp;<span>360°</span></p> 
                         </div>
                         <div class="productos__producto-body">
                             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
                             aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
-                            
-                            
-                        </div>
-                    </div>
-                </div>
-
-                <div class="productos__producto productos__producto--reverse">
-                    <div class="productos__producto-img">
-                        <img src="resources/img/CAMARA2.jpg" alt="">
-                    </div>
-                    <div class="productos__producto-content">
-                        <div class="productos__producto-header">
-                            <p>...&nbsp;<span>...</span></p> 
-                        </div>
-                        <div class="productos__producto-body">
-                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
-                            aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
-                            
-                            
-                        </div>
-                    </div>
-                </div>
-
-                <div class="productos__producto ">
-                    <div class="productos__producto-img">
-                        <img src="resources/img/CAMARA3.jpg" alt="">
-                    </div>
-                    <div class="productos__producto-content">
-                        <div class="productos__producto-header">
-                            <p>...&nbsp;<span>...</span></p> 
-                        </div>
-                        <div class="productos__producto-body">
-                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
-                            aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
-                            
-                            
-                        </div>
-                    </div>
-                </div>
-
-                <div class="productos__producto productos__producto--reverse">
-                    <div class="productos__producto-img">
-                        <img src="resources/img/CAMARA4.jpg" alt="">
-                    </div>
-                    <div class="productos__producto-content">
-                        <div class="productos__producto-header">
-                            <p>...&nbsp;<span>...</span></p> 
-                        </div>
-                        <div class="productos__producto-body">
-                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
-                            aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
-                            
-                            
                         </div>
                     </div>
                 </div>
@@ -400,33 +324,31 @@
 
                 <div class="productos__producto ">
                     <div class="productos__producto-img">
-                        <img src="resources/img/CAMARA1.jpg" alt="">
+                        <img src="resources/img/alarmas_reversa/1.jpeg" alt="Alarmas de reversa de ruido blanco">
                     </div>
                     <div class="productos__producto-content">
                         <div class="productos__producto-header">
-                            <p>...&nbsp;<span>...</span></p> 
+                            <p>ALARMA INTELIGENTE&nbsp;<span>BBS WHITE SOUND</span></p> 
                         </div>
                         <div class="productos__producto-body">
                             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
                             aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
-                            
                             
                         </div>
                     </div>
                 </div>
 
-                <div class="productos__producto productos__producto--reverse">
+                <div class="productos__producto productos__producto--reverse ">
                     <div class="productos__producto-img">
-                        <img src="resources/img/CAMARA2.jpg" alt="">
+                        <img src="resources/img/alarmas_reversa/2.jpeg" alt="Alarmas de reversa de ruido blanco">
                     </div>
                     <div class="productos__producto-content">
                         <div class="productos__producto-header">
-                            <p>...&nbsp;<span>...</span></p> 
+                            <p>ALARMA INTELIGENTE&nbsp;<span>BBS WHITE SOUND</span></p> 
                         </div>
                         <div class="productos__producto-body">
                             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
                             aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
-                            
                             
                         </div>
                     </div>
@@ -434,37 +356,20 @@
 
                 <div class="productos__producto ">
                     <div class="productos__producto-img">
-                        <img src="resources/img/CAMARA3.jpg" alt="">
+                        <img src="resources/img/alarmas_reversa/3.jpeg" alt="Alarmas de reversa de ruido blanco">
                     </div>
                     <div class="productos__producto-content">
                         <div class="productos__producto-header">
-                            <p>...&nbsp;<span>...</span></p> 
+                            <p>ALARMA&nbsp;<span>BBS WHITE SOUND</span></p> 
                         </div>
                         <div class="productos__producto-body">
                             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
                             aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
                             
-                            
                         </div>
                     </div>
                 </div>
-
-                <div class="productos__producto productos__producto--reverse">
-                    <div class="productos__producto-img">
-                        <img src="resources/img/CAMARA4.jpg" alt="">
-                    </div>
-                    <div class="productos__producto-content">
-                        <div class="productos__producto-header">
-                            <p>...&nbsp;<span>...</span></p> 
-                        </div>
-                        <div class="productos__producto-body">
-                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
-                            aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
-                            
-                            
-                        </div>
-                    </div>
-                </div>
+                
 
                 <div class="productos__producto ">
 
@@ -485,71 +390,34 @@
 
                 <div class="productos__producto ">
                     <div class="productos__producto-img">
-                        <img src="resources/img/CAMARA1.jpg" alt="">
+                        <img src="resources/img/sensores_ultrasonicos/1.jpg" alt="Sensores Ultrasónicos">
                     </div>
                     <div class="productos__producto-content">
                         <div class="productos__producto-header">
-                            <p>...&nbsp;<span>...</span></p> 
+                            <p>SISTEMA DE DETECCIÓN ULTRASÓNICO&nbsp;<span>BACKSCAN</span></p> 
                         </div>
                         <div class="productos__producto-body">
                             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
                             aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
-                            
-                            
                         </div>
                     </div>
                 </div>
 
                 <div class="productos__producto productos__producto--reverse">
                     <div class="productos__producto-img">
-                        <img src="resources/img/CAMARA2.jpg" alt="">
+                        <img src="resources/img/sensores_ultrasonicos/2.jpeg" alt="Sensores Ultrasónicos">
                     </div>
                     <div class="productos__producto-content">
                         <div class="productos__producto-header">
-                            <p>...&nbsp;<span>...</span></p> 
+                            <p>SISTEMA DE DETECCIÓN ULTRASÓNICO&nbsp;<span>FRONTSCAN</span></p> 
                         </div>
                         <div class="productos__producto-body">
                             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
                             aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
-                            
-                            
                         </div>
                     </div>
                 </div>
 
-                <div class="productos__producto ">
-                    <div class="productos__producto-img">
-                        <img src="resources/img/CAMARA3.jpg" alt="">
-                    </div>
-                    <div class="productos__producto-content">
-                        <div class="productos__producto-header">
-                            <p>...&nbsp;<span>...</span></p> 
-                        </div>
-                        <div class="productos__producto-body">
-                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
-                            aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
-                            
-                            
-                        </div>
-                    </div>
-                </div>
-
-                <div class="productos__producto productos__producto--reverse">
-                    <div class="productos__producto-img">
-                        <img src="resources/img/CAMARA4.jpg" alt="">
-                    </div>
-                    <div class="productos__producto-content">
-                        <div class="productos__producto-header">
-                            <p>...&nbsp;<span>...</span></p> 
-                        </div>
-                        <div class="productos__producto-body">
-                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
-                            aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
-                            
-                            
-                        </div>
-                    </div>
-                </div>
 
                 <div class="productos__producto ">
 
@@ -570,72 +438,20 @@
 
                 <div class="productos__producto ">
                     <div class="productos__producto-img">
-                        <img src="resources/img/CAMARA1.jpg" alt="">
+                        <img src="resources/img/grabadora_digital/1.png" alt="Grabador digital móvil">
                     </div>
                     <div class="productos__producto-content">
                         <div class="productos__producto-header">
-                            <p>...&nbsp;<span>...</span></p> 
+                            <p>GRABADOR DIGITAL&nbsp;<span>MÓVIL</span></p> 
                         </div>
                         <div class="productos__producto-body">
                             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
                             aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
-                            
-                            
                         </div>
                     </div>
                 </div>
 
-                <div class="productos__producto productos__producto--reverse">
-                    <div class="productos__producto-img">
-                        <img src="resources/img/CAMARA2.jpg" alt="">
-                    </div>
-                    <div class="productos__producto-content">
-                        <div class="productos__producto-header">
-                            <p>...&nbsp;<span>...</span></p> 
-                        </div>
-                        <div class="productos__producto-body">
-                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
-                            aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
-                            
-                            
-                        </div>
-                    </div>
-                </div>
-
-                <div class="productos__producto ">
-                    <div class="productos__producto-img">
-                        <img src="resources/img/CAMARA3.jpg" alt="">
-                    </div>
-                    <div class="productos__producto-content">
-                        <div class="productos__producto-header">
-                            <p>...&nbsp;<span>...</span></p> 
-                        </div>
-                        <div class="productos__producto-body">
-                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
-                            aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
-                            
-                            
-                        </div>
-                    </div>
-                </div>
-
-                <div class="productos__producto productos__producto--reverse">
-                    <div class="productos__producto-img">
-                        <img src="resources/img/CAMARA4.jpg" alt="">
-                    </div>
-                    <div class="productos__producto-content">
-                        <div class="productos__producto-header">
-                            <p>...&nbsp;<span>...</span></p> 
-                        </div>
-                        <div class="productos__producto-body">
-                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
-                            aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
-                            
-                            
-                        </div>
-                    </div>
-                </div>
-
+             
                 <div class="productos__producto ">
 
                     <div class="productos__catalogo">
