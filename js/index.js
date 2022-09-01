@@ -70,7 +70,6 @@ $('#btnAnterior').click(function(){
   
     $(this).prop('disabled',true)
     $('#btnSiguiente').prop('disabled',false)
-
     $('#subtitle-recomendaciones').text('MAQUINARIA SEMIPESADA')
     var img = $("#img")
     img.attr('src', 'resources/img/recomendaciones-de-seguridad.jpg');

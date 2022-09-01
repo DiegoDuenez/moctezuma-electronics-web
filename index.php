@@ -40,9 +40,9 @@
   <?php require_once 'templates/components/tabs.php' ?>
   <!--===== PRODUCTOS END =====-->
 
-  <!--===== RECOMENDACIONES START =====-->
-  <?php include_once 'templates/layouts/recomendaciones.php' ?>
-  <!--===== PRECOMENDACIONES END =====-->
+  <!--===== GUIAS DEL COMPRADOR START =====-->
+  <?php include_once 'templates/layouts/guias_comprador.php' ?>
+  <!--===== PGUIAS DEL COMPRADOR END =====-->
 
   <!--===== INDUSTRIAS START =====-->
   <?php include_once 'templates/layouts/industrias.php' ?>

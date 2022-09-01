@@ -27,7 +27,7 @@
                     Grabador digital móvil
                 </button>
             </div>
-        <a href="#recomendaciones" class="menu__item">
+        <a href="#guias_comprador" class="menu__item">
             Guías del comprador
         </a>
         <a href="#industrias" class="menu__item">
