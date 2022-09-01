@@ -124,6 +124,7 @@
     width: 100%;
     height: max-content;
     padding: 1rem;
+    word-break: break-all; 
 }
 
 .productos__producto-header p{

@@ -41,30 +41,60 @@ $('#menuButton').click(function(){
 })
 
 $('.menu__item').click(function(e) {
-    // window.location = $('.menu__item').attr('href');
-    // alert($('.menu__item').attr('href').replace('#',''))
-    // e.preventDefault()
-    // id = $(this).attr('data-href')
-    // document.getElementById(id).scrollIntoView();
-
+    
     if($('#menuHide').hasClass('menu--show')){
         $('#menuHide').removeClass('menu--show')
         $('#menuButton').empty()
         $('#menuButton').append('<i class="fa-solid fa-bars"></i> <p>MENÚ</p>')
     }
-    // else{
-    //     $('#menuHide').addClass('menu--show')
-    //     $('#menuButton').empty()
-    //     $('#menuButton').append('<i class="fa-solid fa-xmark"></i> <p>CERRAR</p>')
-    // }
 
 })
 
 
-// $('#btnSiguiente').click(function(){
-//     $('#subtitle-recomendaciones').text('MAQUINARIA PESADA')
-//     $("#img").fadeTo(1000,0.30, function() {
-//         $("#img").attr("src",'resources/img/recomendaciones-de-seguridad2.jpg');
-//     }).fadeTo(500,1);
-//     return false;
-// })
+$('#btnSiguiente').click(function(){
+
+    $(this).prop('disabled',true)
+    $('#btnAnterior').prop('disabled',false)
+
+    $('#subtitle-recomendaciones').text('MAQUINARIA PESADA')
+    var img = $("#img")
+    img.attr('src', 'resources/img/recomendaciones-de-seguridad2.jpg');
+   
+    animateCSS('#img', 'fadeIn');
+    img.dequeue();
+   
+})
+
+
+$('#btnAnterior').click(function(){
+  
+    $(this).prop('disabled',true)
+    $('#btnSiguiente').prop('disabled',false)
+
+    $('#subtitle-recomendaciones').text('MAQUINARIA SEMIPESADA')
+    var img = $("#img")
+    img.attr('src', 'resources/img/recomendaciones-de-seguridad.jpg');
+    
+    animateCSS('#img', 'fadeIn');
+    img.dequeue();
+    
+})
+
+
+const animateCSS = (element, animation, prefix = 'animate__') =>
+  // We create a Promise and return it
+  new Promise((resolve, reject) => {
+    const animationName = `${prefix}${animation}`;
+    const node = document.querySelector(element);
+
+    node.classList.add(`${prefix}animated`, animationName);
+
+    // When the animation ends, we clean the classes and resolve the Promise
+    function handleAnimationEnd(event) {
+      event.stopPropagation();
+      node.classList.remove(`${prefix}animated`, animationName);
+      resolve('Animation ended');
+    }
+
+    node.addEventListener('animationend', handleAnimationEnd, {once: true});
+  });

@@ -82,9 +82,13 @@
     
 }
 
-.menu__item[href*='#productos']:hover + .menu__productos-opciones{
-    visibility: visible;
-    opacity: 1;
+
+
+@media screen and (min-width: 450px) and (max-width: 4000px) {
+    .menu__item[href*='#productos']:hover + .menu__productos-opciones{
+        visibility: visible;
+        opacity: 1;
+    }
 }
 
 .menu__productos-opciones{

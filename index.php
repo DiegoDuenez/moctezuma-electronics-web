@@ -60,9 +60,6 @@
   <?php require_once 'templates/components/menu.php' ?>
   <!--===== MENU LATERAL DESPLEGABLE END =====-->
 
-  <!-- <?php include_once 'templates/components/modal.php' ?> -->
-
-
   <!--===== SCRIPTS START =====-->
   <?php include_once 'templates/scripts/scripts.php' ?>
   <!--===== SCRIPTS END =====-->

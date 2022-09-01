@@ -7,7 +7,7 @@
 
     <div class="recomendaciones__container">
         <div class="recomendaciones__img">
-            <img src="resources/img/recomendaciones-de-seguridad.jpg" id="img" alt="Recomendaciones de seguridad">
+            <img src="resources/img/recomendaciones-de-seguridad.jpg" class="animate__animated" id="img" alt="Recomendaciones de seguridad">
         </div>
         <div class="recomendaciones__buttons">
             <button class="button button--black" id="btnAnterior" title="Anterior" disabled><i class="fa-solid fa-caret-left"></i></button>
