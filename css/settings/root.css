@@ -122,3 +122,7 @@ body>div {
 body>section {
     overflow: hidden !important;
 }
+
+.swal2-popup {
+    font-family: MontserratMedium !important;
+}

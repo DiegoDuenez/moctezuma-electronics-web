@@ -20,7 +20,10 @@
     <link rel="stylesheet" href="libs/glider/glider.min.css">
     <!--====== MAINCSS ======-->
     <link rel="stylesheet" href="css/index.css">
+    <!--====== GOOGLE RECAPTCHA ======-->
+    <script src="https://www.google.com/recaptcha/api.js"></script>
     <title>Moctezuma Electronics México</title>
+    
 </head>
 <body>
 
