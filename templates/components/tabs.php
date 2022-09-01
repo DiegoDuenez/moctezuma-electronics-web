@@ -24,7 +24,7 @@
 
                 <div class="productos__producto ">
                     <div class="productos__producto-img">
-                        <img src="resources/img/CAMARA1.jpg" alt="SISTEMAS DE CÁMARA Y MONITOR">
+                        <img src="resources/img/CAMARA1.jpg" alt="SISTEMAS DE CÁMARA Y MONITOR" >
                     </div>
                     <div class="productos__producto-content">
                         <div class="productos__producto-header">
