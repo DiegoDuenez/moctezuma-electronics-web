@@ -3,18 +3,18 @@
     width: 10px;
   }
   
-  /* Track */
-  ::-webkit-scrollbar-track {
-    background: #000000;
-  }
-  
-  /* Handle */
-  ::-webkit-scrollbar-thumb {
-    background: var(--color-blue);
-    border-radius: 10px;
-  }
-  
-  /* Handle on hover */
-  ::-webkit-scrollbar-thumb:hover {
-    background: #1c9ea8;
-  }
+/* Track */
+::-webkit-scrollbar-track {
+  background: #000000;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: var(--color-blue);
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #1c9ea8;
+}
