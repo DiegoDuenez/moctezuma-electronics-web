@@ -67,7 +67,7 @@
                 </div>
                 <div class="servicios__card-mask">
                     <div class="servicios__card-mask-body">
-                        En Moctezuma Electronics México sabemos que, 
+                        En <span style="color: var(--color-blue)">Moctezuma Electronics México</span> sabemos que, 
                         sin productos fiables de alta calidad, no seríamos la empresa que 
                         somos hoy en día. Este es el motivo por el que hacemos ese esfuerzo 
                         extraordinario para que no se comprometa la seguridad del personal 

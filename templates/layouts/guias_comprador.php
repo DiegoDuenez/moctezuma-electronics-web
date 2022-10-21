@@ -5,7 +5,7 @@
         <h2 class="sub-title" >RECOMENDACIONES DE SEGURIDAD</h2>
     </div>
 
-    <div class="guias_comprador__container">
+    <div class="guias_comprador__container " >
         <div class="guias_comprador__img">
             <h3 class="guias_comprador__title-img" id="subtitle-recomendaciones">MAQUINARIA SEMIPESADA</h3>
             <img src="resources/img/recomendaciones-de-seguridad.jpg" title="Recomendaciones de seguridad"  class="animate__animated" id="img" alt="Recomendaciones de seguridad">

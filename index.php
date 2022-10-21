@@ -18,7 +18,7 @@
     <link rel="stylesheet" href="libs/aos/dist/aos.css">
     <!--====== GLIDER CSS ======-->
     <link rel="stylesheet" href="libs/glider/glider.min.css">
-    <!--====== MAINCSS ======-->
+    <!--====== MAIN CSS ======-->
     <link rel="stylesheet" href="css/index.css">
     <!--====== GOOGLE RECAPTCHA ======-->
     <script src="https://www.google.com/recaptcha/api.js"></script>
@@ -27,9 +27,9 @@
 </head>
 <body>
 
-  <!--===== BANNER START =====-->
+  <!--===== PROGRESS BAR START =====-->
   <?php include_once 'templates/components/progress-bar.php' ?>
-  <!--===== BANNER END =====-->
+  <!--===== PROGRESS BAR END =====-->
 
   <!--===== BANNER START =====-->
   <?php include_once 'templates/components/banner.php' ?>
@@ -45,7 +45,7 @@
 
   <!--===== GUIAS DEL COMPRADOR START =====-->
   <?php include_once 'templates/layouts/guias_comprador.php' ?>
-  <!--===== PGUIAS DEL COMPRADOR END =====-->
+  <!--===== GUIAS DEL COMPRADOR END =====-->
 
   <!--===== INDUSTRIAS START =====-->
   <?php include_once 'templates/layouts/industrias.php' ?>

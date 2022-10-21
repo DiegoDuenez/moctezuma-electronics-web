@@ -1,4 +1,4 @@
-<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.1.7/dist/sweetalert2.all.min.js"></script>     
+<script src="libs/sweetalert2/sweetalert2.all.min.js"></script>     
 <script src="libs/jquery/jquery.min.js"></script>
 <script src="libs/glider/glider.min.js"></script>
 <script src="js/banner.js"></script>
