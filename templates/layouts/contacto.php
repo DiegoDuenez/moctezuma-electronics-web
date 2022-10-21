@@ -34,12 +34,12 @@
         
 
         <div class="contacto__informacion">
-                <a href="https://goo.gl/maps/Dgg9U4QT5FHkX6V19" target="blank"> <i class="fa-solid fa-location-dot"></i> Av. Abasolo #121-A
-                Col. Centro CP 27000
-                Torreón, Coahuila.
-                </a> 
-                <a href="tel:8712249887"><i class="fa-solid fa-phone"></i> (871) 124-9887</a>
-                <a href="tel:8717125872"><i class="fa-solid fa-phone"></i> (871) 712-5872</a>
+            <a href="https://goo.gl/maps/Dgg9U4QT5FHkX6V19" target="blank"> <i class="fa-solid fa-location-dot"></i> Av. Abasolo #121-A
+            Col. Centro CP 27000
+            Torreón, Coahuila.
+            </a> 
+            <a href="tel:8712249887"><i class="fa-solid fa-phone"></i> (871) 124-9887</a>
+            <a href="tel:8717125872"><i class="fa-solid fa-phone"></i> (871) 712-5872</a>
         </div>
 
     </div>
