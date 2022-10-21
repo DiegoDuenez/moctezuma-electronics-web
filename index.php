@@ -49,7 +49,7 @@
 
   <!--===== INDUSTRIAS START =====-->
   <?php include_once 'templates/layouts/industrias.php' ?>
-  <!--===== PINDUSTRIAS END =====-->
+  <!--===== INDUSTRIAS END =====-->
 
   <!--===== SERVICIOS START =====-->
   <?php include_once 'templates/layouts/servicios.php' ?>
@@ -66,9 +66,6 @@
   <!--===== SCRIPTS START =====-->
   <?php include_once 'templates/scripts/scripts.php' ?>
   <!--===== SCRIPTS END =====-->
-
-
-
 
 </body>
 </html>
