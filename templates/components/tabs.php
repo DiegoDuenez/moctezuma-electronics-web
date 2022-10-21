@@ -4,7 +4,6 @@
         <h2 class="title title--black">Productos</h2>
     </div>
 
-
     <div class="tab__container">
         <div class="tab">
             <button class="tablinks active" data-producto="sistemas_camara_monitor" onclick="openTab(event, 'sistemas_camara_monitor')">SISTEMAS DE CÁMARA/MONITOR</button>
@@ -63,8 +62,6 @@
                         <div class="productos__producto-body">
                             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
                             aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
-                            
-                            
                         </div>
                     </div>
                 </div>
@@ -80,8 +77,6 @@
                         <div class="productos__producto-body">
                             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
                             aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
-                            
-                            
                         </div>
                     </div>
                 </div>
@@ -97,8 +92,6 @@
                         <div class="productos__producto-body">
                             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
                             aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
-                            
-                            
                         </div>
                     </div>
                 </div>
@@ -114,8 +107,6 @@
                         <div class="productos__producto-body">
                             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
                             aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
-                            
-                            
                         </div>
                     </div>
                 </div>
@@ -131,8 +122,6 @@
                         <div class="productos__producto-body">
                             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
                             aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
-                            
-                            
                         </div>
                     </div>
                 </div>
@@ -148,8 +137,6 @@
                         <div class="productos__producto-body">
                             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
                             aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
-                            
-                            
                         </div>
                     </div>
                 </div>
@@ -165,8 +152,6 @@
                         <div class="productos__producto-body">
                             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
                             aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
-                            
-                            
                         </div>
                     </div>
                 </div>
@@ -182,8 +167,6 @@
                         <div class="productos__producto-body">
                             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
                             aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
-                            
-                            
                         </div>
                     </div>
                 </div>
@@ -200,8 +183,6 @@
                         <div class="productos__producto-body">
                             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
                             aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
-                            
-                            
                         </div>
                     </div>
                 </div>
@@ -270,7 +251,6 @@
                     </div>
                 </div>
 
-
                 <div class="productos__producto ">
 
                     <div class="productos__catalogo">
@@ -331,7 +311,6 @@
                         <div class="productos__producto-body">
                             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
                             aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
-                            
                         </div>
                     </div>
                 </div>
@@ -347,7 +326,6 @@
                         <div class="productos__producto-body">
                             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
                             aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
-                            
                         </div>
                     </div>
                 </div>
@@ -363,12 +341,10 @@
                         <div class="productos__producto-body">
                             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
                             aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
-                            
                         </div>
                     </div>
                 </div>
                 
-
                 <div class="productos__producto ">
 
                     <div class="productos__catalogo">
@@ -449,7 +425,6 @@
                     </div>
                 </div>
 
-             
                 <div class="productos__producto ">
 
                     <div class="productos__catalogo">

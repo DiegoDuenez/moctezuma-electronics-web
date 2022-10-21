@@ -22,7 +22,6 @@
                         y más modernas prácticas internacionales.
                     </div>
                 </div>
-
             </div>
             <div class="servicios__card">
                 <div class="servicios__card-body">

@@ -322,8 +322,6 @@
                 <div class="productos__producto-body">
                     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
                     aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
-                    
-                    
                 </div>
             </div>
         </div>
@@ -339,8 +337,6 @@
                 <div class="productos__producto-body">
                     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
                     aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
-                    
-                    
                 </div>
             </div>
         </div>
@@ -378,8 +374,6 @@
                 <div class="productos__producto-body">
                     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
                     aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
-                    
-                    
                 </div>
             </div>
         </div>
@@ -395,8 +389,6 @@
                 <div class="productos__producto-body">
                     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
                     aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
-                    
-                    
                 </div>
             </div>
         </div>
@@ -412,8 +404,6 @@
                 <div class="productos__producto-body">
                     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
                     aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
-                    
-                    
                 </div>
             </div>
         </div>
@@ -429,8 +419,6 @@
                 <div class="productos__producto-body">
                     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis molestiae libero expedita hic ab
                     aut ex accusantium similique atque. Rem rerum distinctio sint facere illo tempore nesciunt eveniet praesentium dolore.
-                    
-                    
                 </div>
             </div>
         </div>

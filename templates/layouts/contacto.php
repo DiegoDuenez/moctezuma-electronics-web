@@ -31,7 +31,6 @@
     </div>
 
     <div class="contacto__container contacto__container--row">
-        
 
         <div class="contacto__informacion">
             <a href="https://goo.gl/maps/Dgg9U4QT5FHkX6V19" target="blank"> <i class="fa-solid fa-location-dot"></i> Av. Abasolo #121-A

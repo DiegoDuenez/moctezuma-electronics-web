@@ -1,5 +1,4 @@
 
-
 window.onscroll = function() {progressBar() };
 
 function progressBar() {

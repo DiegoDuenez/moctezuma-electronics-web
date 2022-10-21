@@ -30,7 +30,6 @@
                 <div class="industrias__card-footer">
                     AGRICULTURA
                 </div>
-                
             </div>
 
             <div class="industrias__card">
@@ -49,7 +48,6 @@
                 <div class="industrias__card-footer">
                     CONSTRUCCIÓN
                 </div>
-                
             </div>
 
             <div class="industrias__card">
@@ -73,7 +71,6 @@
                 <div class="industrias__card-footer">
                     MINERÍA Y EXTRACCIÓN
                 </div>
-                
             </div>
         </div>
 
@@ -167,7 +164,6 @@
                 <div class="industrias__card-footer">
                     AEROPUERTOS Y PUERTOS MARÍTIMOS
                 </div>
-                
             </div>
 
             <div class="industrias__card">
@@ -190,7 +186,6 @@
                 <div class="industrias__card-footer">
                     APLICACIONES ESPECIALIZADAS
                 </div>
-               
             </div>
 
         </div>
