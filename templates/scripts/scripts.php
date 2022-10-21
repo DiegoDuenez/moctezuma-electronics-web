@@ -6,5 +6,3 @@
 <script src="js/progress-bar.js"></script>
 <script src="js/tabs.js"></script>
 <script src="js/mail.js"></script>
-
-
