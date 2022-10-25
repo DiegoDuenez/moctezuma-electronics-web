@@ -1,4 +1,4 @@
-<div class="productos" id="productos">
+<secction class="productos" id="productos">
 
     <!-- SISTEMAS DE CÁMARA/MONITOR -->
 
@@ -501,4 +501,4 @@
     
     
 
-</div>
+</secction>

@@ -1,4 +1,4 @@
-<div class="industrias" id="industrias">
+<section class="industrias" id="industrias">
 
     <div class="industrias__title">
         <h2 class="title">INDUSTRIAS</h2>
@@ -72,6 +72,7 @@
                     MINERÍA Y EXTRACCIÓN
                 </div>
             </div>
+
         </div>
 
         <div class="industrias__card-row">
@@ -187,9 +188,9 @@
                     APLICACIONES ESPECIALIZADAS
                 </div>
             </div>
-
         </div>
+        
     </div>
     
 
-</div>
+</section>

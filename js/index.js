@@ -1,5 +1,22 @@
 
 
+var guias = [
+    'resources/img/guias/agricola.jpg',
+    'resources/img/guias/articulado.jpg',
+    'resources/img/guias/cosechadora.jpg',
+    'resources/img/guias/excavadora.jpg',
+    'resources/img/guias/pasajeros.jpg',
+    'resources/img/guias/pesada.jpg',
+    'resources/img/guias/residuos.jpg',
+    'resources/img/guias/semipesada.jpg',
+]
+
+var guiaImage = 0;
+
+$(document).ready(function(){
+   $("#img").attr('src', guias[guiaImage]);
+})
+
 if ($(window).width() > 700) {
     var lastScrollTop = 0
     window.addEventListener("scroll", function () {
@@ -53,29 +70,33 @@ $('.menu__item').click(function(e) {
 
 $('#btnSiguiente').click(function(){
 
-    $(this).prop('disabled',true)
-    $('#btnAnterior').prop('disabled',false)
-
-    $('#subtitle-recomendaciones').text('MAQUINARIA PESADA')
     var img = $("#img")
-    img.attr('src', 'resources/img/recomendaciones-de-seguridad2.jpg');
-   
+    $('#btnAnterior').prop('disabled',false)
+    guiaImage = (guiaImage  + 1) % guias.length;
+    img.attr('src', guias[guiaImage]);
     animateCSS('#img', 'fadeIn');
     img.dequeue();
+
+    if(guiaImage == guias.length -1){
+        $(this).prop('disabled',true)
+    }
    
 })
 
 
 $('#btnAnterior').click(function(){
   
-    $(this).prop('disabled',true)
-    $('#btnSiguiente').prop('disabled',false)
-    $('#subtitle-recomendaciones').text('MAQUINARIA SEMIPESADA')
     var img = $("#img")
-    img.attr('src', 'resources/img/recomendaciones-de-seguridad.jpg');
-    
+    $('#btnSiguiente').prop('disabled',false)
+    guiaImage = (guiaImage - 1) % guias.length;
+    img.attr('src', guias[guiaImage]);
     animateCSS('#img', 'fadeIn');
     img.dequeue();
+    
+    if(guiaImage == 0){
+        guiaImage = 0;
+        $(this).prop('disabled',true)
+    }
     
 })
 

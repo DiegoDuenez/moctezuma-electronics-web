@@ -43,6 +43,10 @@
   <?php require_once 'templates/components/tabs.php' ?>
   <!--===== PRODUCTOS END =====-->
 
+  <!--===== NUEVO LANZAMIENTO START =====-->
+  <?php include_once 'templates/layoutS/nuevo-lanzamiento.php' ?>
+  <!--===== NUEVO LANZAMIENTO END =====-->
+
   <!--===== GUIAS DEL COMPRADOR START =====-->
   <?php include_once 'templates/layouts/guias_comprador.php' ?>
   <!--===== GUIAS DEL COMPRADOR END =====-->

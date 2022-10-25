@@ -1,4 +1,4 @@
-<div class="contacto" id="contacto">
+<section class="contacto" id="contacto">
 
     <div class="contacto__title">
         <h2 class="title">PONTE EN <span class="title__span">CONTACTO</span></h2>
@@ -33,14 +33,15 @@
     <div class="contacto__container contacto__container--row">
 
         <div class="contacto__informacion">
-            <a href="https://goo.gl/maps/Dgg9U4QT5FHkX6V19" target="blank"> <i class="fa-solid fa-location-dot"></i> Av. Abasolo #121-A
-            Col. Centro CP 27000
-            Torreón, Coahuila.
+            <a href="https://goo.gl/maps/Z3EZnbwxSPfJpQmA8" target="blank"> <i class="fa-solid fa-location-dot"></i>
+            Cuautitlán 123 Col. Moctezuma Torreón Coahuila cp. 27030
             </a> 
-            <a href="tel:8712249887"><i class="fa-solid fa-phone"></i> (871) 124-9887</a>
-            <a href="tel:8717125872"><i class="fa-solid fa-phone"></i> (871) 712-5872</a>
+            <a href="tel:8713471067"><i class="fa-solid fa-phone"></i> (871) 347 1067</a>
+            <a href="tel:8711249287"><i class="fa-solid fa-phone"></i> (871) 124 9287</a>
+            <a href="tel:2602511378"><i class="fa-solid fa-phone"></i> (260) 251 1378</a>
+
         </div>
 
     </div>
 
-</div>
+</section>

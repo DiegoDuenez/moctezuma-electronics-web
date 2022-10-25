@@ -1,5 +1,5 @@
 
-<div class="nuestra-empresa" id="nuestraempresa">
+<main class="nuestra-empresa" id="nuestraempresa">
     
     <div class="nuestra-empresa__title">
         <h2 class="title">Nuestra <span class="title__span">empresa</span> </h2>
@@ -96,25 +96,4 @@
 
     </div>
 
-    <!-- <div class="nuestra-empresa__icons">
-        <div class="nuestra-empresa__card">
-            <div class="nuestra-empresa__card-icon">
-                <i class="fa-regular fa-bullseye-arrow"></i>
-            </div>
-            <div class="nuestra-empresa__card-text">
-                Misión
-            </div>
-        </div>
-
-        <div class="nuestra-empresa__card">
-            <div class="nuestra-empresa__card-icon">
-                <i class="fa-solid fa-eye"></i>
-            </div>
-            <div class="nuestra-empresa__card-text">
-                Visión
-            </div>
-        </div>
-    </div> -->
-
-
-</div>
+</main>

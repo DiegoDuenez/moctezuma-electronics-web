@@ -10,7 +10,7 @@ $mensaje = test_input($_POST['mensaje']);
 if (empty($nombre) ||  empty($correo)  || empty($mensaje) || empty($asunto)) {
     return print(json_encode('empty'));
 } else {
-    $para = "diegoduenez03@gmail.com";
+    $para = "<diegoduenez03@gmail.com>, <19170154@uttcampus.edu.mx>";
     // $titulo = $nombre . ' quiere ponerse en contacto.';
     $titulo = ucfirst($asunto);
     $mensaje = '
@@ -32,7 +32,7 @@ if (empty($nombre) ||  empty($correo)  || empty($mensaje) || empty($asunto)) {
     $cabeceras  = 'MIME-Version: 1.0' . "\r\n";
     $cabeceras .= 'Content-type: text/html; charset=UTF-8' . "\r\n";
 
-    $cabeceras .= 'Para: <diegoduenez03@gmail.com>' . "\r\n";
+    $cabeceras .= 'Para: <diegoduenez03@gmail.com>, <19170154@uttcampus.edu.mx>' . "\r\n";
     $cabeceras .= 'From: ' . $nombre . "\r\n";
 
     $sent = mail($para, utf8_decode($titulo), utf8_decode($mensaje), $cabeceras);
