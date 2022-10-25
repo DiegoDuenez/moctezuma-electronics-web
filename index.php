@@ -44,7 +44,7 @@
   <!--===== PRODUCTOS END =====-->
 
   <!--===== NUEVO LANZAMIENTO START =====-->
-  <?php include_once 'templates/layoutS/nuevo-lanzamiento.php' ?>
+  <?php include_once 'templates/layouts/nuevo-lanzamiento.php' ?>
   <!--===== NUEVO LANZAMIENTO END =====-->
 
   <!--===== GUIAS DEL COMPRADOR START =====-->

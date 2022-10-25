@@ -34,7 +34,7 @@
 
         <div class="contacto__informacion">
             <a href="https://goo.gl/maps/Z3EZnbwxSPfJpQmA8" target="blank"> <i class="fa-solid fa-location-dot"></i>
-            Cuautitlán 123 Col. Moctezuma Torreón Coahuila cp. 27030
+            Cuautitlán 123, Col. Moctezuma, Torreón Coahuila, CP. 27030
             </a> 
             <a href="tel:8713471067"><i class="fa-solid fa-phone"></i> (871) 347 1067</a>
             <a href="tel:8711249287"><i class="fa-solid fa-phone"></i> (871) 124 9287</a>
