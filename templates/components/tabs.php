@@ -207,9 +207,9 @@
                 <div class="productos__producto ">
 
                     <div class="productos__catalogo">
-                        <a href="sindocumento.pdf" download>
-                            <img src="resources/img/catalogo.jpg" alt="" class="productos__catalogo-img">
-                            <p class="productos__catalogo-text">DESCARGAR CATÁLOGO</p>
+                        <a href="Catalogo.pdf" target="_blank">
+                            <img src="resources/img/portada_catalogo.jpg" alt="" class="productos__catalogo-img">
+                            <p class="productos__catalogo-text">VER CATÁLOGO</p>
                         </a>
                     </div>
                     
@@ -254,9 +254,9 @@
                 <div class="productos__producto ">
 
                     <div class="productos__catalogo">
-                        <a href="sindocumento.pdf" download>
-                            <img src="resources/img/catalogo.jpg" alt="" class="productos__catalogo-img">
-                            <p class="productos__catalogo-text">DESCARGAR CATÁLOGO</p>
+                        <a href="Catalogo.pdf" target="_blank">
+                            <img src="resources/img/portada_catalogo.jpg" alt="" class="productos__catalogo-img">
+                            <p class="productos__catalogo-text">VER CATÁLOGO</p>
                         </a>
                     </div>
                     
@@ -286,9 +286,9 @@
                 <div class="productos__producto ">
 
                     <div class="productos__catalogo">
-                        <a href="sindocumento.pdf" download>
-                            <img src="resources/img/catalogo.jpg" alt="" class="productos__catalogo-img">
-                            <p class="productos__catalogo-text">DESCARGAR CATÁLOGO</p>
+                        <a href="Catalogo.pdf" target="_blank">
+                            <img src="resources/img/portada_catalogo.jpg" alt="" class="productos__catalogo-img">
+                            <p class="productos__catalogo-text">VER CATÁLOGO</p>
                         </a>
                     </div>
                     
@@ -348,9 +348,9 @@
                 <div class="productos__producto ">
 
                     <div class="productos__catalogo">
-                        <a href="sindocumento.pdf" download>
-                            <img src="resources/img/catalogo.jpg" alt="" class="productos__catalogo-img">
-                            <p class="productos__catalogo-text">DESCARGAR CATÁLOGO</p>
+                        <a href="Catalogo.pdf" target="_blank">
+                            <img src="resources/img/portada_catalogo.jpg" alt="" class="productos__catalogo-img">
+                            <p class="productos__catalogo-text">VER CATÁLOGO</p>
                         </a>
                     </div>
                     
@@ -396,9 +396,9 @@
                 <div class="productos__producto ">
 
                     <div class="productos__catalogo">
-                        <a href="sindocumento.pdf" download>
-                            <img src="resources/img/catalogo.jpg" alt="" class="productos__catalogo-img">
-                            <p class="productos__catalogo-text">DESCARGAR CATÁLOGO</p>
+                        <a href="Catalogo.pdf" target="_blank">
+                            <img src="resources/img/portada_catalogo.jpg" alt="" class="productos__catalogo-img">
+                            <p class="productos__catalogo-text">VER CATÁLOGO</p>
                         </a>
                     </div>
                     
@@ -428,9 +428,9 @@
                 <div class="productos__producto ">
 
                     <div class="productos__catalogo">
-                        <a href="sindocumento.pdf" download>
-                            <img src="resources/img/catalogo.jpg" alt="" class="productos__catalogo-img">
-                            <p class="productos__catalogo-text">DESCARGAR CATÁLOGO</p>
+                        <a href="Catalogo.pdf" target="_blank">
+                            <img src="resources/img/portada_catalogo.jpg" alt="" class="productos__catalogo-img">
+                            <p class="productos__catalogo-text">VER CATÁLOGO</p>
                         </a>
                     </div>
                     

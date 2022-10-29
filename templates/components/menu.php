@@ -36,7 +36,7 @@
         <a href="#servicios" class="menu__item">
             Servicios
         </a>
-        <a href="catalogo.pdf" download class="menu__item">
+        <a href="Catalogo.pdf" target="_blank" class="menu__item">
             Catálogo de productos
         </a>
         <a href='#contacto' class="menu__item menu__item--blue">
