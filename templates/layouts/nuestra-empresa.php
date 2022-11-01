@@ -30,7 +30,7 @@
         <div class="nuestra-empresa__content-text">
             <p>
                 <span style="color: var(--color-blue)">Moctezuma Electronics México</span> como único distribuidor y representante 
-                comercial de primer nivel de la marca BRIGADE en México y Centroamérica 
+                comercial de primer nivel de la marca Brigade&#xAE; en México y Centroamérica,
                 tiene el firme propósito de que las carreteras y zonas de trabajo sean
                 seguras para todos.
             </p>

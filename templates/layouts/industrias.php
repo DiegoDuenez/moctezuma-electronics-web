@@ -179,7 +179,7 @@
                         canteras, servicios de rescate, puertos y servicios públicos, requieren soluciones de seguridad a medida que puedan 
                         adaptarse según su finalidad concreta y entorno operativo.
                         Habida cuenta del amplio espectro de sus funciones, estos vehículos deben funcionar con seguridad y eficacia.
-                        Brigade proporciona soluciones especializadas desde hace más de 40 años, y puede aconsejar qué productos de seguridad 
+                        Brigade&#xAE; proporciona soluciones especializadas desde hace más de 40 años, y puede aconsejar qué productos de seguridad 
                         son los más adecuados para todo tipo de vehículos, máquinas o plantas móviles, independientemente de su tamaño o función. 
                         </div>
                     </div>
