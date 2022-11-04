@@ -41,7 +41,7 @@
             </div>
             <div class="servicios__card">
                 <div class="servicios__card-body">
-                    <img src="resources/img/SERVICIOS3.jpg" alt="Instalación" title="Instalación">
+                    <img src="resources/img/SERVICIOS33.jpeg" alt="Instalación" title="Instalación">
                 </div>
                 <div class="servicios__card-footer">
                     INSTALACIÓN
