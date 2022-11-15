@@ -2,10 +2,10 @@
 
     <div class="guias_comprador__title">
         <h2 class="title title--black">GUÍAS DEL COMPRADOR</h2>
-        <h2 class="sub-title" >RECOMENDACIONES DE SEGURIDAD</h2>
+        <h2 class="sub-title" >DISTRIBUIDOR AUTORIZADO</h2>
     </div>
 
-    <div class="guias_comprador__container "z >
+    <div class="guias_comprador__container ">
         <div class="guias_comprador__img">
             <img src="" title="Recomendaciones de seguridad" loading="lazy" class="animate__animated" id="img" alt="Recomendaciones de seguridad">
         </div>
