@@ -165,14 +165,14 @@
                         <div class="productos__producto-header">
                             <p>SISTEMA DE CÁMARA Y MONITOR DE LA&nbsp;<span>GAMA ESSENTIAL</span></p> 
                         </div>
-                        <!-- <div class="productos__producto-body">
+                        <div class="productos__producto-body">
                             Solución básica y asequible en vehículos para la marcha atrás.
                             Ideal para aplicaciones en carretera. Cabe mencionar que todos los sistemas de cámara
                             y monitor de Brigade&#xAE; son compatibles con su game de grabadoras digitales móviles (MDR).
-                        </div> -->
+                        </div>
                     </div>
                      <div class="productos__producto-img productos__producto-img--w100">
-                        <img src="resources/img/gama_essential.jpeg" alt="SISTEMAS DE CÁMARA Y MONITOR">
+                        <img src="resources/img/gama_essential2.jpeg" alt="SISTEMAS DE CÁMARA Y MONITOR">
                     </div>
                 </div> 
 
